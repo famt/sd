@@ -97,8 +97,7 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 |25 Mar 2019| Data Carta Magna do Ceará (Estadual) | -  | - |
 |01 Abr 2019| Threads e Processos (Teoria e Prática) | [Slides PPTX](https://github.com/famt/sd/blob/2019/slides/Aula03_Threads_Processos_v2019.pptx) | - |
 |08 Abr 2019| Apresentação Vídeo - Arquitetura | - | - |
-|15 Abr 2019| Relógios Lógicos e Exclusão Mútua. Algoritmos Distribuídos - (Eleição, Consenso) | [Slides Sicronização e Exclusão Mútua - PPTX](https://github.com/famt/sd/blob/2019/slides/Aula04_Sincronização_Exclusão_Mutua_v2019.pptx)  
-[Slides Algoritmos Distribuídos - PPTX](https://github.com/famt/sd/blob/2019/slides/Aula05_Algoritmos_de_Eleicao_v2019.pptx)| - |
+|15 Abr 2019| Relógios Lógicos e Exclusão Mútua. Algoritmos Distribuídos - (Eleição, Consenso) | [Slides Sicronização e Exclusão Mútua - PPTX](https://github.com/famt/sd/blob/2019/slides/Aula04_Sincronização_Exclusão_Mutua_v2019.pptx) - [Slides Algoritmos Distribuídos - PPTX](https://github.com/famt/sd/blob/2019/slides/Aula05_Algoritmos_de_Eleicao_v2019.pptx)| - |
 |22 Abr 2019| Sockets, RPC e XMLRPC | [Slides PDF]() | [Atividade](https://github.com/famt/sd/blob/master/trabalhos/TrabalhoMQTTvsSockets_2018_2.pdf) |
 |29 Abr 2019| RMI | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula07_RMI_v2019.pdf) | [Atividade]() |
 |06 Maio 2019| Prova 1 | [Estudo Dirigido](https://github.com/famt/sd/blob/2019/material_de_estudo/EstudoDirigidoI_2018_2.doc) | - |
@@ -108,6 +107,5 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 |03 Jun 2019| Descoberta de Serviços | [Slides PPTX](https://github.com/famt/sd/blob/2019/slides/Aula11_Descoberta_v2019.pptx) | - |
 |10 Jun 2019| Prova 2 | [Roteiro de Estudo]() | - |
 |17 Jun 2019| Blockchain - Aula Invertida | [Slides PDF]() | [Link da Prática]() |
-|24 Jun 2019| Computação em Nuvem | [Slides Virtualização PPTX](https://github.com/famt/sd/blob/2019/slides/AulaVirtualização_v2019.pptx)  
-[Slides Cloud PPTX](https://github.com/famt/sd/blob/2019/slides/CloudComputing_v2019.pdf) | - |
+|24 Jun 2019| Computação em Nuvem | [Slides Virtualização PPTX](https://github.com/famt/sd/blob/2019/slides/AulaVirtualização_v2019.pptx) - [Slides Cloud PPTX](https://github.com/famt/sd/blob/2019/slides/CloudComputing_v2019.pdf) | - |
 |Data| Prova Final | - | - |
