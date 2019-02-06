@@ -89,23 +89,24 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 
 | Aulas       | Tópicos                      | Recursos | Tarefas/Artigos |
 |:-------------:|-----------------------------|:---------:|:-----------:|
-|18 Fev 2019| Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Apresentação - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_ApresentacaoDisciplinaSD2019.pdf) | - |
-|25 Fev 2019| Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). Revisão de Redes - Wireshark| [Slides Fundamentos SD - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_IntroducaoSDv2019.pdf) | - |
+|18 Fev 2019| Semana Zero | - | - |
+|25 Fev 2019| Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Apresentação - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_ApresentacaoDisciplinaSD2019.pdf) | - |
 |04 Mar 2019| Carnaval | - | - |
-|11 Mar 2019| Modelos de Comunicação e Arquitetura | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula02_Modelos_e_Estilos_Arquitetonicos_v2019.pdf) | - |
-|18 Mar 2019| Modelos de Comunicação e Arquitetura (Prática) | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula02_Modelos_e_Estilos_Arquitetonicos_v2019.pdf) | [Tarefa](https://github.com/famt/sd/blob/2019/trabalhos/TrabalhoIdeSD_2019_1.pdf) |
+|11 Mar 2019| Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). Revisão de Redes - Wireshark| [Slides Fundamentos SD - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_IntroducaoSDv2019.pdf) | - |
+|18 Mar 2019| Modelos de Comunicação e Arquitetura | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula02_Modelos_e_Estilos_Arquitetonicos_v2019.pdf) | - |
 |25 Mar 2019| Data Carta Magna do Ceará (Estadual) | -  | - |
-|01 Abr 2019| Threads e Processos (Teoria e Prática) | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula03_Threads_Processos_v2019.pdf) | - |
-|08 Abr 2019| Apresentação Vídeo - Arquitetura | - | - |
-|15 Abr 2019| Relógios Lógicos e Exclusão Mútua. Algoritmos Distribuídos - (Eleição, Consenso) | [Slides Sicronização e Exclusão Mútua - PDF](https://github.com/famt/sd/blob/2019/slides/Aula04_Sincronizacao_Exclusao_Mutua_v2019.pdf) - [Slides Algoritmos Distribuídos - PDF](https://github.com/famt/sd/blob/2019/slides/Aula05_Algoritmos_de_Eleicao_v2019.pdf)| - |
-|22 Abr 2019| Sockets, RPC e XMLRPC | [Slides PDF]() | [Atividade](https://github.com/famt/sd/blob/master/trabalhos/TrabalhoMQTTvsSockets_2018_2.pdf) |
-|29 Abr 2019| RMI | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula07_RMI_v2019.pdf) | [Atividade]() |
-|06 Maio 2019| Prova 1 | [Estudo Dirigido](https://github.com/famt/sd/blob/2019/material_de_estudo/EstudoDirigidoI_2018_2.doc) | - |
-|13 Maio 2019| Modelo de Representação de Dados (Aula Invertida). SOA e WS | [Slides SOA PDF](https://github.com/famt/sd/blob/2019/slides/Aula08_ServiceOrientedArchitecture_v2019.pdf) | [Prática Aula Invertida](https://github.com/famt/sd/blob/2019/slides/Aula08_Casos_Estudo_v2019.pdf) |
-|20 Maio 2019| REST. RESTFULL e GRPC - Google RPC | - | - |
-|27 Maio 2019| P2P - Aula Invertida (Do Napster ao BitTorrent). P2P - Consistent Hashing | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula10_P2P_v2019.pdf) | - |
-|03 Jun 2019| Descoberta de Serviços | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula11_Descoberta_v2019.pdf) | - |
-|10 Jun 2019| Prova 2 | [Roteiro de Estudo]() | - |
-|17 Jun 2019| Blockchain - Aula Invertida | [Slides PDF]() | [Link da Prática]() |
-|24 Jun 2019| Computação em Nuvem | [Slides Virtualização PDF](https://github.com/famt/sd/blob/2019/slides/AulaVirtualizacao_v2019.pdf) - [Slides Cloud PDF](https://github.com/famt/sd/blob/2019/slides/CloudComputing_v2019.pdf) | - |
+|01 Abr 2019| Modelos de Comunicação e Arquitetura (Prática) | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula02_Modelos_e_Estilos_Arquitetonicos_v2019.pdf) | [Tarefa](https://github.com/famt/sd/blob/2019/trabalhos/TrabalhoIdeSD_2019_1.pdf) |
+|08 Abr 2019| Threads e Processos (Teoria e Prática) | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula03_Threads_Processos_v2019.pdf) | - |
+|15 Abr 2019| Apresentação Vídeo - Arquitetura | - | - |
+|22 Abr 2019| Relógios Lógicos e Exclusão Mútua. Algoritmos Distribuídos - (Eleição, Consenso) | [Slides Sicronização e Exclusão Mútua - PDF](https://github.com/famt/sd/blob/2019/slides/Aula04_Sincronizacao_Exclusao_Mutua_v2019.pdf) - [Slides Algoritmos Distribuídos - PDF](https://github.com/famt/sd/blob/2019/slides/Aula05_Algoritmos_de_Eleicao_v2019.pdf)| - |
+|29 Abr 2019| Sockets, RPC e XMLRPC | [Slides PDF]() | [Atividade](https://github.com/famt/sd/blob/master/trabalhos/TrabalhoMQTTvsSockets_2018_2.pdf) |
+|06 Maio 2019| RMI | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula07_RMI_v2019.pdf) | [Atividade]() |
+|13 Maio 2019| Prova 1 | [Estudo Dirigido](https://github.com/famt/sd/blob/2019/material_de_estudo/EstudoDirigidoI_2018_2.doc) | - |
+|20 Maio 2019| Modelo de Representação de Dados (Aula Invertida). SOA e WS | [Slides SOA PDF](https://github.com/famt/sd/blob/2019/slides/Aula08_ServiceOrientedArchitecture_v2019.pdf) | [Prática Aula Invertida](https://github.com/famt/sd/blob/2019/slides/Aula08_Casos_Estudo_v2019.pdf) |
+|27 Maio 2019| REST. RESTFULL e GRPC - Google RPC | - | - |
+|03 Jun 2019| P2P - Aula Invertida (Do Napster ao BitTorrent). P2P - Consistent Hashing | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula10_P2P_v2019.pdf) | - |
+|10 Jun 2019| Descoberta de Serviços | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula11_Descoberta_v2019.pdf) | - |
+|17 Jun 2019| Prova 2 | [Roteiro de Estudo]() | - |
+|24 Jun 2019| Blockchain - Aula Invertida | [Slides PDF]() | [Link da Prática]() |
+|01 Jul 2019| Computação em Nuvem | [Slides Virtualização PDF](https://github.com/famt/sd/blob/2019/slides/AulaVirtualizacao_v2019.pdf) - [Slides Cloud PDF](https://github.com/famt/sd/blob/2019/slides/CloudComputing_v2019.pdf) | - |
 |Data| Prova Final | - | - |
