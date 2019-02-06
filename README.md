@@ -100,9 +100,9 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 |15 Abr 2019| Apresentação Vídeo - Arquitetura | - | - |
 |22 Abr 2019| Relógios Lógicos e Exclusão Mútua. Algoritmos Distribuídos - (Eleição, Consenso) | [Slides Sicronização e Exclusão Mútua - PDF](https://github.com/famt/sd/blob/2019/slides/Aula04_Sincronizacao_Exclusao_Mutua_v2019.pdf) - [Slides Algoritmos Distribuídos - PDF](https://github.com/famt/sd/blob/2019/slides/Aula05_Algoritmos_de_Eleicao_v2019.pdf)| - |
 |29 Abr 2019| Sockets, RPC e XMLRPC | [Slides PDF]() | [Atividade](https://github.com/famt/sd/blob/master/trabalhos/TrabalhoMQTTvsSockets_2018_2.pdf) |
-|06 Maio 2019| RMI. Modelo de Representação de Dados (Aula Invertida). | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula07_RMI_v2019.pdf) | [Atividade]() |
+|06 Maio 2019| RMI. Modelo de Representação de Dados (Aula Invertida). | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula07_RMI_v2019.pdf) | [Prática Aula Invertida](https://github.com/famt/sd/blob/2019/slides/Aula08_Casos_Estudo_v2019.pdf) |
 |13 Maio 2019| Prova 1 | [Estudo Dirigido](https://github.com/famt/sd/blob/2019/material_de_estudo/EstudoDirigidoI_2018_2.doc) | - |
-|20 Maio 2019| SOA e WS. REST. RESTFULL e GRPC - Google RPC. | [Slides SOA PDF](https://github.com/famt/sd/blob/2019/slides/Aula08_ServiceOrientedArchitecture_v2019.pdf) | [Prática Aula Invertida](https://github.com/famt/sd/blob/2019/slides/Aula08_Casos_Estudo_v2019.pdf) |
+|20 Maio 2019| SOA e WS. REST. RESTFULL e GRPC - Google RPC. | [Slides SOA PDF](https://github.com/famt/sd/blob/2019/slides/Aula08_ServiceOrientedArchitecture_v2019.pdf) | - |
 |27 Maio 2019| P2P - Aula Invertida (Do Napster ao BitTorrent). P2P - Consistent Hashing | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula10_P2P_v2019.pdf) | - |
 |03 Jun 2019| Descoberta de Serviços | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula11_Descoberta_v2019.pdf) | - |
 |10 Jun 2019| Prova 2 | [Roteiro de Estudo]() | - |
