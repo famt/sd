@@ -107,23 +107,23 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 | Aulas      | Parte | Tópicos                      | Recursos | Tarefas/Artigos |
 |:-------------:|:----:|-----------------------------|:---------:|:-----------:|
 |18 Fev 2019| I e II | Semana Zero | - | - |
-|25 Fev 2019| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | [Slides Apresentação - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_ApresentacaoDisciplinaSD2019.pdf) | - |
-|25 Fev 2019| II | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Fundamentos SD - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_IntroducaoSDv2019.pdf) | - |
+|25 Fev 2019| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | [Slides Apresentação - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_ApresentacaoDisciplinaSD_v2019.pdf) | - |
+|25 Fev 2019| II | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Fundamentos SD - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_IntroducaoSD_v2019.pdf) | - |
 |04 Mar 2019| I e II | Carnaval | - | - |
-|11 Mar 2019| I | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | [Slides Fundamentos SD - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_IntroducaoSDv2019.pdf) | - |
+|11 Mar 2019| I | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | [Slides Fundamentos SD - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_IntroducaoSD_v2019.pdf) | - |
 |11 Mar 2019| II | Revisão de Redes - Wireshark| - | [Formulário Atividade Wireshark](https://docs.google.com/forms/d/e/1FAIpQLSfs5DZzHQ_DbpUlIeT-jQ_uohDtikq_nFjjv0f-yZLTYiYjvw/viewform) |
-|18 Mar 2019| I e II | Modelos de Comunicação e Arquitetura | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula02_Modelos_e_Estilos_Arquitetonicos_v2019.pdf) | - |
+|18 Mar 2019| I e II | Modelos de Comunicação e Arquitetura | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula02_ModelosEstilosArquitetonicos_v2019.pdf) | - |
 |25 Mar 2019| I e II | Data Carta Magna do Ceará (Estadual) | -  | - |
-|01 Abr 2019| I | Continuação de Modelos de Comunicação e Arquitetura | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula02_Modelos_e_Estilos_Arquitetonicos_v2019.pdf) | - |
+|01 Abr 2019| I | Continuação de Modelos de Comunicação e Arquitetura | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula02_ModelosEstilosArquitetonicos_v2019.pdf) | - |
 |01 Abr 2019| II | Inicio Trabalho de Modelos de Comunicação e Arquitetura | - | [Tarefa](https://github.com/famt/sd/blob/2019/trabalhos/TrabalhoIdeSD_2019_1.pdf) |
 |08 Abr 2019| I | Apresentação Vídeo - Arquitetura | - | - |
-|08 Abr 2019| II | Threads e Processos (Teoria) | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula03_Threads_Processos_v2019.pdf) | - |
+|08 Abr 2019| II | Threads e Processos (Teoria) | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula03_Processos_Threads_v2019.pdf) | - |
 |15 Abr 2019| I e II | Threads e Processos (Prática) | - | - |
-|22 Abr 2019| I | Relógios Lógicos e Exclusão Mútua. | [Slides Sicronização e Exclusão Mútua - PDF](https://github.com/famt/sd/blob/2019/slides/Aula04_Sincronizacao_Exclusao_Mutua_v2019.pdf) | - |
+|22 Abr 2019| I | Relógios Lógicos e Exclusão Mútua. | [Slides Sicronização e Exclusão Mútua - PDF](https://github.com/famt/sd/blob/2019/slides/Aula04_Sicronizacao_ExclusaoMutua_v2019.pdf) | - |
 |22 Abr 2019| II | Tira dúvidas do Estudo Dirigido | - | - |
 |29 Abr 2019| I | Prova 1 | [Estudo Dirigido](https://github.com/famt/sd/blob/2019/material_de_estudo/EstudoDirigidoI_2018_2.doc) | - |
 |29 Abr 2019| II | Revisão Sockets e MQTT | [Slides PDF]() | [Atividade](https://github.com/famt/sd/blob/master/trabalhos/TrabalhoMQTTvsSockets_2018_2.pdf) |
-|06 Maio 2019| I e II | Algoritmos Distribuídos - (Eleição, Consenso) | [Slides Algoritmos Distribuídos - PDF](https://github.com/famt/sd/blob/2019/slides/Aula05_Algoritmos_de_Eleicao_v2019.pdf) | - |
+|06 Maio 2019| I e II | Algoritmos Distribuídos - (Eleição, Consenso) | [Slides Algoritmos Distribuídos - PDF](https://github.com/famt/sd/blob/2019/slides/Aula06_AlgoritmosDeEleicao_v2019.pdf) | - |
 |13 Maio 2019| I e II | Modelo de Representação de Dados (Aula Invertida) | - | [Prática Aula Invertida](https://github.com/famt/sd/blob/2019/slides/Aula08_Casos_Estudo_v2019.pdf) |
 |13 Maio 2019| I e II | RPC, XMLRPC e GRPC - Google RPC | - | - |
 |20 Maio 2019| I | RMI (Teoria) | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula07_RMI_v2019.pdf) | - |
