@@ -108,7 +108,7 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 |:-------------:|:----:|-----------------------------|:---------:|:-----------:|
 |18 Fev 2019| I e II | Semana Zero | - | - |
 |25 Fev 2019| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | [Slides Apresentação - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_ApresentacaoDisciplinaSD_v2019.pdf) | - |
-|25 Fev 2019| II | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Fundamentos SD - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_IntroducaoSD_v2019.pdf) | - |
+|25 Fev 2019| II | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Fundamentos SD - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_IntroducaoSD_v2019.pdf) | [Roteiro de estudos revisão de redes] (https://github.com/famt/sd/blob/2019/material_de_estudo/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
 |04 Mar 2019| I e II | Carnaval | - | - |
 |11 Mar 2019| I | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | [Slides Fundamentos SD - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_IntroducaoSD_v2019.pdf) | - |
 |11 Mar 2019| II | Revisão de Redes - Wireshark| - | [Formulário Atividade Wireshark](https://docs.google.com/forms/d/e/1FAIpQLSfs5DZzHQ_DbpUlIeT-jQ_uohDtikq_nFjjv0f-yZLTYiYjvw/viewform) |
