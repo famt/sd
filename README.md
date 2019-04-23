@@ -119,16 +119,16 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 |08 Abr 2019| I | Apresentação Vídeo - Arquitetura | - | - |
 |08 Abr 2019| II | Threads e Processos (Teoria) | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula03_Processos_Threads_v2019.pdf) | - |
 |15 Abr 2019| I e II | Threads e Processos (Prática) | - | - |
-|22 Abr 2019| I e II | Relógios Lógicos e Exclusão Mútua. | [Slides Sicronização e Exclusão Mútua - PDF](https://github.com/famt/sd/blob/2019/slides/Aula04_Sicronizacao_ExclusaoMutua_v2019.pdf) | - |
-|29 Abr 2019| II | P2P, Bit Torrent e DHT | [Slides PDF]() | |
+|22 Abr 2019| I | RMI (Teoria) | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula07_RMI_v2019.pdf) | - |
+|22 Abr 2019| II | RMI (Prática) | - | - |
+|29 Abr 2019| I e II | Relógios Lógicos e Exclusão Mútua. | [Slides Sicronização e Exclusão Mútua - PDF](https://github.com/famt/sd/blob/2019/slides/Aula04_Sicronizacao_ExclusaoMutua_v2019.pdf) | - |
 |06 Maio 2019| I | Revisão Sockets e MQTT | [Slides PDF]() | [Atividade](https://github.com/famt/sd/blob/master/trabalhos/TrabalhoMQTTvsSockets_2018_2.pdf) |
 |06 Maio 2019| II | Tira dúvidas do Estudo Dirigido | - | - |
 |13 Maio 2019| I | Prova 1 | [Estudo Dirigido](https://github.com/famt/sd/blob/2019/material_de_estudo/EstudoDirigidoI_2018_2.doc) | - |
 |13 Maio 2019| II | Algoritmos Distribuídos - (Eleição, Consenso) | [Slides Algoritmos Distribuídos - PDF](https://github.com/famt/sd/blob/2019/slides/Aula06_AlgoritmosDeEleicao_v2019.pdf) | - |
 |20 Maio 2019| I | Modelo de Representação de Dados (Aula Invertida) | - | [Prática Aula Invertida](https://github.com/famt/sd/blob/2019/slides/Aula08_Casos_Estudo_v2019.pdf) |
 |20 Maio 2019| II | RPC, XMLRPC e GRPC - Google RPC | - | - |
-|27 Maio 2019| I | RMI (Teoria) | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula07_RMI_v2019.pdf) | - |
-|27 Maio 2019| II | RMI (Prática) | - | - |
+|27 Maio 2019| II | P2P, Bit Torrent e DHT | [Slides PDF]() | |
 |03 Jun 2019| I | Apresentação Trabalho de Socket e MQTT + Entrega Prova 1 | - | - |
 |03 Jun 2019| II | SOA | [Slides SOA PDF](https://github.com/famt/sd/blob/2019/slides/Aula08_ServiceOrientedArchitecture_v2019.pdf) | - |
 |10 Jun 2019| I e II | WS. REST. RESTFULL/Microsserviços | - | - |
