@@ -125,7 +125,7 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 |06 Maio 2019| I | Revisão Sockets e MQTT | [Slides PDF]() | [Atividade](https://github.com/famt/sd/blob/master/trabalhos/TrabalhoMQTTvsSockets_2018_2.pdf) |
 |06 Maio 2019| II | Tira dúvidas do Estudo Dirigido | - | - |
 |13 Maio 2019| I | Prova 1 | [Estudo Dirigido](https://github.com/famt/sd/blob/2019/material_de_estudo/EstudoDirigidoI_2018_2.doc) | - |
-|13 Maio 2019| II | Algoritmos Distribuídos - (Eleição, Consenso) | [Slides Algoritmos Distribuídos - PDF](https://github.com/famt/sd/blob/2019/slides/Aula06_AlgoritmosDeEleicao_v2019.pdf) | - |
+|13 Maio 2019| II | Algoritmos Distribuídos - (Eleição) | [Slides Algoritmos Distribuídos - PDF](https://github.com/famt/sd/blob/2019/slides/Aula06_AlgoritmosDeEleicao_v2019.pdf) | - |
 |20 Maio 2019| I | Modelo de Representação de Dados (Aula Invertida) | - | [Prática Aula Invertida](https://github.com/famt/sd/blob/2019/slides/Aula08_Casos_Estudo_v2019.pdf) |
 |20 Maio 2019| II | RPC, XMLRPC e GRPC - Google RPC | - | - |
 |27 Maio 2019| II | P2P, Bit Torrent e DHT | [Slides PDF]() | |
