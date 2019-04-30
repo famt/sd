@@ -120,7 +120,7 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 |08 Abr 2019| II | Threads e Processos (Teoria) | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula03_Processos_Threads_v2019.pdf) | - |
 |15 Abr 2019| I e II | Threads e Processos (Prática) | - | - |
 |22 Abr 2019| I | RMI (Teoria) | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula07_RMI_v2019.pdf) | - |
-|22 Abr 2019| II | RMI (Prática) | [Exemplo - Calculadora](https://github.com/famt/sd/blob/2019/exemplos/Calculadora.zip) / [Exemplos - Serializable e Callbacks] (https://github.com/famt/sd/blob/2019/exemplos/exemplosRMI.zip) | [Trabalho](https://github.com/famt/sd/blob/2019/trabalhos/TrabalhoRMI_2019_1.pdf) |
+|22 Abr 2019| II | RMI (Prática) | [Exemplo - Calculadora](https://github.com/famt/sd/blob/2019/exemplos/Calculadora.zip) [Exemplos - Serializable e Callbacks](https://github.com/famt/sd/blob/2019/exemplos/exemplosRMI.zip) | [Trabalho](https://github.com/famt/sd/blob/2019/trabalhos/TrabalhoRMI_2019_1.pdf) |
 |29 Abr 2019| I e II | Relógios Lógicos e Exclusão Mútua. | [Slides Sicronização e Exclusão Mútua - PDF](https://github.com/famt/sd/blob/2019/slides/Aula04_Sicronizacao_ExclusaoMutua_v2019.pdf) | - |
 |06 Maio 2019| I | Revisão Sockets e MQTT | [Slides PDF]() | [Atividade](https://github.com/famt/sd/blob/master/trabalhos/TrabalhoMQTTvsSockets_2018_2.pdf) |
 |06 Maio 2019| II | Tira dúvidas do Estudo Dirigido | - | - |
