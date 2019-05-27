@@ -125,13 +125,12 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 |06 Maio 2019| I e II | Relógios Lógicos e Exclusão Mútua. | [Slides Sicronização e Exclusão Mútua - PDF](https://github.com/famt/sd/blob/2019/slides/Aula04_Sicronizacao_ExclusaoMutua_v2019.pdf) | - |
 |13 Maio 2019| I e II | Revisão Sockets e MQTT | [Roteiro de Estudos enviado pelo SIGAA]() | [Trabalho](https://github.com/famt/sd/blob/master/trabalhos/TrabalhoMQTTvsSockets_2018_2.pdf) |
 |13 Maio 2019| II | Tira dúvidas do Estudo Dirigido | - | - |
-|20 Maio 2019| II | P2P, Bit Torrent e DHT | [Slides PDF]() | |
 |20 Maio 2019| I | Prova 1 | [Estudo Dirigido](https://github.com/famt/sd/blob/2019/material_de_estudo/EstudoDirigidoI_2018_2.doc) | - |
-|27 Maio 2019| I | Modelo de Representação de Dados (Aula Invertida) | - | [Prática Aula Invertida](https://github.com/famt/sd/blob/2019/slides/Aula08_Casos_Estudo_v2019.pdf) |
-|27 Maio 2019| II | RPC, XMLRPC e GRPC - Google RPC | - | - |
-|03 Jun 2019| I | Apresentação Trabalho de Socket e MQTT + Entrega Prova 1 | - | - |
+|27 Maio 2019| II | P2P, Bit Torrent e DHT | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Redes%20de%20Computadores-Aula%2010%20-%20P2P.pdf) | |
+|03 Jun 2019| I | Modelo de Representação de Dados (Aula Invertida) | - | [Prática Aula Invertida]() |
 |03 Jun 2019| II | SOA | [Slides SOA PDF](https://github.com/famt/sd/blob/2019/slides/Aula08_ServiceOrientedArchitecture_v2019.pdf) | - |
+|10 Jun 2019| I | Apresentação Trabalho de Socket e MQTT + Entrega Prova 1 | - | - |
 |10 Jun 2019| I e II | WS. REST. RESTFULL/Microsserviços | - | - |
-|17 Jun 2019| I e II | Blockchain - Aula Invertida | [Slides PDF]() | [Link da Prática]() |
-|24 Jun 2019| I e II | Computação em Nuvem | [Slides Cloud PDF](https://github.com/famt/sd/blob/2019/slides/CloudComputing_v2019.pdf) / [Slides Virtualização PDF](https://github.com/famt/sd/blob/2019/slides/AulaVirtualizacao_v2019.pdf) | - |
+|17 Jun 2019| I e II | Computação em Nuvem | [Slides Cloud PDF](https://github.com/famt/sd/blob/2019/slides/CloudComputing_v2019.pdf) / [Slides Virtualização PDF](https://github.com/famt/sd/blob/2019/slides/AulaVirtualizacao_v2019.pdf) | - |
+|24 Jun 2019| I e II | Blockchain - Aula Invertida | [Slides PDF]() | [Link da Prática]() |
 |01 Jul 2019| I e II | Prova Final | - | - |
