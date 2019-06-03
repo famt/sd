@@ -128,7 +128,7 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 |20 Maio 2019| I | Prova 1 | [Estudo Dirigido](https://github.com/famt/sd/blob/2019/material_de_estudo/EstudoDirigidoI_2018_2.doc) | - |
 |27 Maio 2019| I | P2P, Bit Torrent e DHT | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Redes%20de%20Computadores-Aula%2010%20-%20P2P.pdf) | |
 |27 Maio 2019| II | Consistent Hashing | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Consistent%20Hashing.pdf) | |
-|03 Jun 2019| I | Modelo de Representação de Dados (Aula Invertida)| [Slides PDF] () | [Prática Aula Invertida](https://github.com/famt/sd/blob/2019/aulas_invertidas/AtividadeEmSala_Aula_Invertida_III_Representacao_de_Dados.pdf) |
+|03 Jun 2019| I | Modelo de Representação de Dados (Aula Invertida)| [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula_09_Casos_Representacao_Dados.pdf) | [Prática Aula Invertida](https://github.com/famt/sd/blob/2019/aulas_invertidas/AtividadeEmSala_Aula_Invertida_III_Representacao_de_Dados.pdf) |
 |03 Jun 2019| II | SOA | [Slides SOA PDF](https://github.com/famt/sd/blob/2019/slides/Aula08_ServiceOrientedArchitecture_v2019.pdf) | - |
 |10 Jun 2019| I | Apresentação Trabalho de Socket e MQTT + Entrega Prova 1 | - | - |
 |10 Jun 2019| I e II | WS. REST. RESTFULL/Microsserviços | - | - |
