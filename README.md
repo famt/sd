@@ -133,5 +133,5 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 |10 Jun 2019| I | Apresentação Trabalho de Socket e MQTT + Entrega Prova 1 | - | - |
 |10 Jun 2019| I e II | WS. REST. RESTFULL/Microsserviços | - | - |
 |17 Jun 2019| I e II | Computação em Nuvem | [Slides Cloud PDF](https://github.com/famt/sd/blob/2019/slides/CloudComputing_v2019.pdf) / [Slides Virtualização PDF](https://github.com/famt/sd/blob/2019/slides/AulaVirtualizacao_v2019.pdf) | - |
-|24 Jun 2019| I e II | Blockchain - Aula Invertida | [Slides PDF]() | [Link da Prática]() |
+|24 Jun 2019| I e II | Blockchain - Aula Invertida | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula%20Blockchain%202019.pdf) | [Link da Prática](https://docs.google.com/document/d/1z42fAaHwLWS63bydrMmwcUnv4YNeFs-e-BLwLcL9DLg/edit?usp=sharing) |
 |01 Jul 2019| I e II | Prova Final | - | - |
