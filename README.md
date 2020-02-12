@@ -9,7 +9,7 @@
 * **Professor** - Fernando Trinta ([fernando.trinta@dc.ufc.br](mailto:fernando.trinta@dc.ufc.br))
 * **Professor** - Windson Viana ([windson@virtual.ufc.br](mailto:windson@virtual.ufc.br))
 
-* **Assistente de Ensino** - Felipe Gomes ([maquisonfelipe@gmail.com](mailto:maquisonfelipe@gmail.com))
+* **Assistente de Ensino** - Felipe Gomes ([felipegomes.mourapaiva144@gmail.com](mailto:felipegomes.mourapaiva144@gmail.com))
 
 ### Local
 
