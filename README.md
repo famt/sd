@@ -117,8 +117,7 @@ Para alunos da pós-graduação serão realizadas as mesmas atividades, contudo:
 |01 Abr 2020| I | Encontros Universitários 2020 | - | - |
 |01 Abr 2020| I | Envio Vídeo da atividade sobre Arquitetura de SDs  | - | - |
 |01 Abr 2020| I | Continuação de Modelos de Comunicação e Arquitetura | Slides PDF | - |
-|08 Abr 2020| I | Revisão e Observações gerais sobre a atividade modelos arquiteturais e
-estilos arquitetônicos | - | - |
+|08 Abr 2020| I | Revisão e Observações gerais sobre a atividade modelos arquiteturais e estilos arquitetônicos | - | - |
 |08 Abr 2020| II | Threads e Processos (Teoria) | Slides PDF | - |
 |15 Abr 2020| I e II | Threads e Processos (Prática) | - | - |
 |22 Abr 2020| I | RPC/RMI e mecanismos avançados | Slides PDF | - |
@@ -130,7 +129,6 @@ estilos arquitetônicos | - | - |
 |20 Maio 2020| II | Tira Dúvidas para Avaliação | Estudo Dirigido | - 
 |27 Maio 2020| I | Prova | Slides PDF | |
 |27 Maio 2020| II | P2P, Bit Torrent e DHT | Slides PDF | - |
-|27 Maio 2020| II | Consistent Hashing | Slides PDF | - |
 |03 Jun 2020| I | Consistent Hashing | Slides PDF | - |
 |03 Jun 2020| II | SOA | Slides SOA  | - |
 |10 Jun 2020| I | Apresentação Trabalho de Socket e MQTT + Entrega Prova 1 | - | - |
