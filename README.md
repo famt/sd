@@ -108,7 +108,7 @@ Para alunos da pós-graduação serão realizadas as mesmas atividades, contudo:
 | Aulas      | Parte | Tópicos                      | Recursos | Tarefas/Artigos |
 |:-------------:|:----:|-----------------------------|:---------:|:-----------:|
 |19 Fev 2020| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | Slides Apresentação - PDF | - |
-|19 Fev 2020| II | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | Slides Fundamentos SD - PDF | Roteiro de estudos revisão de redes |
+|19 Fev 2020| II | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | Slides Fundamentos SD - PDF | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
 |26 Feb 2020| I e II | Carnaval | - | - |
 |04 Mar 2020| I | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | Slides Fundamentos SD - PDF, Roteiro de estudos revisão de redes | - |
 |11 Mar 2020| II | Revisão de Redes - Wireshark| - | Formulário Atividade Wireshark |
