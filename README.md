@@ -110,8 +110,8 @@ Para alunos da pós-graduação serão realizadas as mesmas atividades, contudo:
 |19 Fev 2020| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | Slides Apresentação - PDF | - |
 |19 Fev 2020| II | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | Slides Fundamentos SD - PDF | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
 |26 Feb 2020| I e II | Carnaval | - | - |
-|04 Mar 2020| I | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | Slides Fundamentos SD - PDF, Roteiro de estudos revisão de redes | - |
-|11 Mar 2020| II | Revisão de Redes - Wireshark| - | Formulário Atividade Wireshark |
+|04 Mar 2020| I e II | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | Slides Fundamentos SD - PDF, Roteiro de estudos revisão de redes | - |
+|11 Mar 2020| II | Atividade Prática de Revisão de Redes - Wireshark| - | Formulário Atividade Wireshark |
 |18 Mar 2020| I e II | Modelos de Comunicação e Arquitetura | Slides PDF | - |
 |25 Mar 2020| I e II | Data Carta Magna do Ceará (Estadual) | -  | - |
 |01 Abr 2020| I | Encontros Universitários 2020 | - | - |
