@@ -107,16 +107,16 @@ Para alunos da pós-graduação serão realizadas as mesmas atividades, contudo:
 
 | Aulas      | Parte | Tópicos                      | Recursos | Tarefas/Artigos |
 |:-------------:|:----:|-----------------------------|:---------:|:-----------:|
-|19 Fev 2020| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | Slides Apresentação - PDF | - |
-|19 Fev 2020| II | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | Slides Fundamentos SD - PDF | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
+|19 Fev 2020| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | [Slides Apresentação - PDF](https://docs.google.com/presentation/d/1qsTQLNICmc5I--f2MvAkqfhsuJ-lxy_4KxNw03OXydk/edit?usp=sharing) | - |
+|19 Fev 2020| II | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Fundamentos SD - PDF](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing) | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
 |26 Feb 2020| I e II | Carnaval | - | - |
-|04 Mar 2020| I e II | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | Slides Fundamentos SD - PDF, Roteiro de estudos revisão de redes | - |
+|04 Mar 2020| I e II | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | [Slides Fundamentos SD - PDF](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing)  | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
 |11 Mar 2020| II | Atividade Prática de Revisão de Redes - Wireshark| - | [Link ](https://github.com/famt/sd/blob/2020.1/aula02_Pr%C3%A1ticaWireshark_Avan%C3%A7ada2020.doc)  |
 |18 Mar 2020| I e II | Modelos de Comunicação e Arquitetura | [Slides PDF](https://docs.google.com/presentation/d/11b_woecjabbineXLuXrQncKQhJ6j0PzDTvaEvtypJq0/edit?usp=sharing) | [Texto Interessante](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) |
 |25 Mar 2020| I e II | Data Carta Magna do Ceará (Estadual) | -  | - |
 |01 Abr 2020| I | Encontros Universitários 2020 | - | - |
 |01 Abr 2020| I | Envio Vídeo da atividade sobre Arquitetura de SDs  | - | - |
-|01 Abr 2020| I | Continuação de Modelos de Comunicação e Arquitetura | Slides PDF | - |
+|01 Abr 2020| I | Modelos de Comunicação e Arquitetura(cont.) | [Slides PDF](https://docs.google.com/presentation/d/11b_woecjabbineXLuXrQncKQhJ6j0PzDTvaEvtypJq0/edit?usp=sharing) | - |
 |08 Abr 2020| I | Revisão e Observações gerais sobre a atividade modelos arquiteturais e estilos arquitetônicos | - | - |
 |08 Abr 2020| II | Threads e Processos (Teoria) | Slides PDF | - |
 |15 Abr 2020| I e II | Threads e Processos (Prática) | - | - |
