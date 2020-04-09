@@ -108,19 +108,20 @@ Para alunos da pós-graduação serão realizadas as mesmas atividades, contudo:
 | Aulas      | Parte | Tópicos                      | Recursos | Tarefas/Artigos |
 |:-------------:|:----:|-----------------------------|:---------:|:-----------:|
 |19 Fev 2020| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | [Slides Apresentação - PDF](https://docs.google.com/presentation/d/1qsTQLNICmc5I--f2MvAkqfhsuJ-lxy_4KxNw03OXydk/edit?usp=sharing) | - |
-|19 Fev 2020| II | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Fundamentos SD - PDF](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing) | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
+|19 Fev 2020| II | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Fundamentos SD - PDF](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing) | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/roteiros/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
 |26 Feb 2020| I e II | Carnaval | - | - |
-|04 Mar 2020| I e II | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | [Slides Fundamentos SD - PDF](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing)  | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
-|11 Mar 2020| II | Atividade Prática de Revisão de Redes - Wireshark| - | [Link ](https://github.com/famt/sd/blob/2020.1/aula02_Pr%C3%A1ticaWireshark_Avan%C3%A7ada2020.doc)  |
+|04 Mar 2020| I e II | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | [Slides Fundamentos SD - PDF](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing)  | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/roteiros/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
+|11 Mar 2020| II | Atividade Prática de Revisão de Redes - Wireshark| - | [Link ](https://github.com/famt/sd/blob/2020.1/praticas/aula02_Pr%C3%A1ticaWireshark_Avan%C3%A7ada2020.doc)  |
 |18 Mar 2020| I e II | Modelos de Comunicação e Arquitetura | [Slides PDF](https://docs.google.com/presentation/d/11b_woecjabbineXLuXrQncKQhJ6j0PzDTvaEvtypJq0/edit?usp=sharing) | [Texto Interessante](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) |
+|18 Mar 2020| I e II | Modelos de Comunicação e Arquitetura | -  | [Video-Aula ](https://fernandotrinta.my.webex.com/recordingservice/sites/fernandotrinta.my/recording/play/1f866516a3ac4a228eaac2b2e5bb7d3b) |
 |25 Mar 2020| I e II | Data Carta Magna do Ceará (Estadual) | -  | - |
 |01 Abr 2020| I | Encontros Universitários 2020 | - | - |
 |01 Abr 2020| I | Envio Vídeo da atividade sobre Arquitetura de SDs  | - | - |
 |01 Abr 2020| I | Modelos de Comunicação e Arquitetura(cont.) | [Slides PDF](https://docs.google.com/presentation/d/11b_woecjabbineXLuXrQncKQhJ6j0PzDTvaEvtypJq0/edit?usp=sharing) | - |
+|8 Abr 2020| I | RPC/RMI e mecanismos avançados | [Slides PDF](https://docs.google.com/presentation/d/1y06Gi49f24wjCNmi43foCX-pc5hDF2eGo9k2I7kFbRA/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1E1_8r0IbaXzFrRbIG3mck3w0p_LDdwlH/view?usp=sharing) |
 |08 Abr 2020| I | Revisão e Observações gerais sobre a atividade modelos arquiteturais e estilos arquitetônicos | - | - |
-|08 Abr 2020| II | Threads e Processos (Teoria) | Slides PDF | - |
+|15 Abr 2020| II | Threads e Processos (Teoria) | Slides PDF | - |
 |15 Abr 2020| I e II | Threads e Processos (Prática) | - | - |
-|22 Abr 2020| I | RPC/RMI e mecanismos avançados | Slides PDF | - |
 |22 Abr 2020| II | Modelo de Representação de Dados (Aula Invertida) | -  |
 |29 Abr 2020| I e II | Protocol Buffer e gRPC | - | - |
 |06 Maio 2020| I e II | Algoritmos Distribuídos | - | - |
