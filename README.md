@@ -120,7 +120,7 @@ Para alunos da pós-graduação serão realizadas as mesmas atividades, contudo:
 |01 Abr 2020| I | Modelos de Comunicação e Arquitetura(cont.) | [Slides PDF](https://docs.google.com/presentation/d/11b_woecjabbineXLuXrQncKQhJ6j0PzDTvaEvtypJq0/edit?usp=sharing) | - |
 |08 Abr 2020| I | RPC/RMI e mecanismos avançados | [Slides PDF](https://docs.google.com/presentation/d/1y06Gi49f24wjCNmi43foCX-pc5hDF2eGo9k2I7kFbRA/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1E1_8r0IbaXzFrRbIG3mck3w0p_LDdwlH/view?usp=sharing) |
 |08 Abr 2020| I | Revisão e Observações gerais sobre a atividade modelos arquiteturais e estilos arquitetônicos | - | - |
-|15 Abr 2020| II | Threads e Processos (Teoria) | [Slides PDF](https://docs.google.com/presentation/d/17-1RGQQZcE5pH2kUQZFhrMtGE_mf5kHyLvj08BNKa9g/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1UTTNa2A6OPNQkIVAcPs9usFgnHG72vek/view?usp=sharing) |
+|15 Abr 2020| II | Threads e Processos (Teoria) | [Slides PDF](https://docs.google.com/presentation/d/17-1RGQQZcE5pH2kUQZFhrMtGE_mf5kHyLvj08BNKa9g/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1Xb4AhNX-300LwWGbTR7iFzcwdMJkiL6R/view?usp=sharing) |
 |15 Abr 2020| I e II | Threads e Processos (Prática) | - | [Exemplos IPC](https://github.com/famt/sd/blob/2020.1/exemplos_code/ExemplosThreads.zip) |
 |22 Abr 2020| II | Modelo de Representação de Dados (Aula Invertida) | -  |
 |29 Abr 2020| I e II | Protocol Buffer e gRPC | - | - |
