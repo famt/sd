@@ -122,11 +122,11 @@ Para alunos da pós-graduação serão realizadas as mesmas atividades, contudo:
 |08 Abr 2020| I | Revisão e Observações gerais sobre a atividade modelos arquiteturais e estilos arquitetônicos | - | - |
 |15 Abr 2020| II | Threads e Processos (Teoria) | [Slides PDF](https://docs.google.com/presentation/d/17-1RGQQZcE5pH2kUQZFhrMtGE_mf5kHyLvj08BNKa9g/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1Xb4AhNX-300LwWGbTR7iFzcwdMJkiL6R/view?usp=sharing) |
 |15 Abr 2020| I e II | Threads e Processos (Prática) | - | [Exemplos IPC](https://github.com/famt/sd/blob/2020.1/exemplos_code/ExemplosThreads.zip) |
-|22 Abr 2020| II | Modelo de Representação de Dados (Aula Invertida) | -  |
-|29 Abr 2020| I e II | Protocol Buffer e gRPC | - | - |
-|06 Maio 2020| I e II | Algoritmos Distribuídos | - | - |
-|13 Maio 2020| I e II | Revisão Sockets e MQTT | Roteiro de Estudos enviado pelo SIGAA | Trabalho |
-|20 Maio 2020| I | Relógios Lógicos e Exclusão Mútua. | Estudo Dirigido | - |
+|22 Abr 2020| I e II | Algoritmos Distribuídos - Relógios Lógicos e Exclusão Mútua. | -  |
+|29 Abr 2020| I e II | Modelos de Representação de Dados (Aula Invertida) | - | - |
+|06 Maio 2020| I e II | Revisão Sockets e MQTT | Roteiro de Estudos enviado pelo SIGAA | Trabalho |
+|13 Maio 2020| I e II | Protocol Buffer e gRPC | - | - |
+|20 Maio 2020| I e II | Algoritmos Distribuídos - Algoritmos de Eleição | Estudo Dirigido | - |
 |20 Maio 2020| II | Tira Dúvidas para Avaliação | Estudo Dirigido | - 
 |27 Maio 2020| I | Prova | Slides PDF | |
 |27 Maio 2020| II | P2P, Bit Torrent e DHT | Slides PDF | - |
