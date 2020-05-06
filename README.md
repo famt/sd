@@ -126,7 +126,7 @@ Para alunos da pós-graduação serão realizadas as mesmas atividades, contudo:
 |29 Abr 2020| I e II | Modelos de Representação de Dados (Aula Invertida) |  [Slides](https://docs.google.com/presentation/d/1kOuOLCtfoxjaXI4qnkBc68En07XrmDi6Zbrymnhq-QI/edit?usp=sharing)  | [Roteiro Aula Invertidas](https://docs.google.com/document/d/1PVh_aoVnh3cERheUpfsz4csVLKZFGT9HI_sxPkddTcw/edit?usp=sharing) &  [Vídeo-Aula](https://drive.google.com/file/d/1Hkznpxd-YwucZQ4VsOpTS_F5iivCQc4Z/view?usp=sharing) |
 |06 Maio 2020| I e II | Revisão Sockets e MQTT | Roteiro de Estudos enviado pelo SIGAA | Trabalho |
 |13 Maio 2020| I e II | Protocol Buffer e gRPC | - | - |
-|20 Maio 2020| I e II | Algoritmos Distribuídos - Algoritmos de Eleição | Estudo Dirigido | - |
+|20 Maio 2020| I e II | Algoritmos Distribuídos - Algoritmos de Eleição | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing) | [Vídeo-Aula Parte I](https://drive.google.com/file/d/1jeb3cdvJzqZy2sqcXXe4Tg8KYiWgCpgJ/view?usp=sharing) [Vídeo-Aula Parte II](https://drive.google.com/file/d/1h6F6cqeK9oyyWUiNIbYUOwbIgZJlcqUB/view?usp=sharing) |
 |20 Maio 2020| II | Tira Dúvidas para Avaliação | Estudo Dirigido | - 
 |27 Maio 2020| I | Prova | Slides PDF | |
 |27 Maio 2020| II | P2P, Bit Torrent e DHT | Slides PDF | - |
