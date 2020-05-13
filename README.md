@@ -125,13 +125,12 @@ Para alunos da pós-graduação serão realizadas as mesmas atividades, contudo:
 |22 Abr 2020| I e II | Algoritmos Distribuídos - Relógios Lógicos e Exclusão Mútua. | [Slides](https://docs.google.com/presentation/d/1bl51LAz48ZJC31Ynm7Kj2mtkqEWtbpKiIgjkYWcixXk/edit?usp=sharing)  | [Vídeo-Aula](https://drive.google.com/file/d/1Gv8Z5hGoCp2jm_txeuXq2pYGDIC0Xe4R/view?usp=sharing)
 |29 Abr 2020| I e II | Modelos de Representação de Dados (Aula Invertida) |  [Slides](https://docs.google.com/presentation/d/1kOuOLCtfoxjaXI4qnkBc68En07XrmDi6Zbrymnhq-QI/edit?usp=sharing)  | [Roteiro Aula Invertidas](https://docs.google.com/document/d/1PVh_aoVnh3cERheUpfsz4csVLKZFGT9HI_sxPkddTcw/edit?usp=sharing) &  [Vídeo-Aula](https://drive.google.com/file/d/1Hkznpxd-YwucZQ4VsOpTS_F5iivCQc4Z/view?usp=sharing) |
 |06 Maio 2020| I e II | Revisão Sockets e MQTT | Roteiro de Estudos enviado pelo SIGAA | Trabalho |
-|13 Maio 2020| I e II | Protocol Buffer e gRPC | - | - |
-|20 Maio 2020| I e II | Algoritmos Distribuídos - Algoritmos de Eleição | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing) | [Vídeo-Aula Parte I](https://drive.google.com/file/d/1jeb3cdvJzqZy2sqcXXe4Tg8KYiWgCpgJ/view?usp=sharing) [Vídeo-Aula Parte II](https://drive.google.com/file/d/1h6F6cqeK9oyyWUiNIbYUOwbIgZJlcqUB/view?usp=sharing) |
+|06 Maio 2020| I e II | Algoritmos Distribuídos - Algoritmos de Eleição | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing) | [Vídeo-Aula Parte I](https://drive.google.com/file/d/1jeb3cdvJzqZy2sqcXXe4Tg8KYiWgCpgJ/view?usp=sharing) [Vídeo-Aula Parte II](https://drive.google.com/file/d/1h6F6cqeK9oyyWUiNIbYUOwbIgZJlcqUB/view?usp=sharing) |
+|13 Maio 2020| II | SOA | [Slides](https://github.com/famt/sd/blob/2020.1/slides/soa.pdf)  | [Video-Aula](https://drive.google.com/file/d/1KTfGvShLNWoqUKHCTbiRc1SG7249gHdE/view?usp=sharing) |
 |20 Maio 2020| II | Tira Dúvidas para Avaliação | Estudo Dirigido | - 
 |27 Maio 2020| I | Prova | Slides PDF | |
 |27 Maio 2020| II | P2P, Bit Torrent e DHT | Slides PDF | - |
 |03 Jun 2020| I | Consistent Hashing | Slides PDF | - |
-|03 Jun 2020| II | SOA | Slides SOA  | - |
 |10 Jun 2020| I | Apresentação Trabalho de Socket e MQTT + Entrega Prova 1 | - | - |
 |10 Jun 2020| II | WebServices. Restfull/Microsserviços | - | - |
 |17 Jun 2020| I e II | Computação em Nuvem e Microsserviços| Slides Cloud PDF / Slides Virtualização PDF | - |
