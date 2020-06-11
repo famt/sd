@@ -128,11 +128,6 @@ Para alunos da pós-graduação serão realizadas as mesmas atividades, contudo:
 |06 Maio 2020| I e II | Algoritmos Distribuídos - Algoritmos de Eleição | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing) | [Vídeo-Aula Parte I](https://drive.google.com/file/d/1jeb3cdvJzqZy2sqcXXe4Tg8KYiWgCpgJ/view?usp=sharing) [Vídeo-Aula Parte II](https://drive.google.com/file/d/1h6F6cqeK9oyyWUiNIbYUOwbIgZJlcqUB/view?usp=sharing) |
 |13 Maio 2020| II | SOA | [Slides](https://github.com/famt/sd/blob/2020.1/slides/soa.pdf)  | [Video-Aula](https://drive.google.com/file/d/1KTfGvShLNWoqUKHCTbiRc1SG7249gHdE/view?usp=sharing) |
 |20 Maio 2020| II | Tira Dúvidas para Avaliação | Estudo Dirigido | - 
-|27 Maio 2020| I | Prova | Slides PDF | |
-|27 Maio 2020| II | P2P, Bit Torrent e DHT | Slides PDF | - |
-|03 Jun 2020| I | Consistent Hashing | Slides PDF | - |
-|10 Jun 2020| I | Apresentação Trabalho de Socket e MQTT + Entrega Prova 1 | - | - |
-|10 Jun 2020| II | WebServices. Restfull/Microsserviços | - | - |
-|17 Jun 2020| I e II | Computação em Nuvem e Microsserviços| Slides Cloud PDF / Slides Virtualização PDF | - |
-|24 Jun 2020| I e II | Blockchain - Aula Invertida | Slides PDF | Link da Prática |
-|01 Jul 2020| I e II | Prova Final | - | - |
+|27 Maio 2020| I | Feriado | - | - |
+|03 Jun 2020| I | Avaliação Oral  | - | - |
+|10 Jun 2020| I | Computação em Nuvem | [Slides](https://docs.google.com/presentation/d/1YfmZx9BHQEPICXu1crt_n2fxe1s19k72T-LXsZNGv8A/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1MHqgDfl30XHZ0Dm-3oCpx62P0adF3-O_/view?usp=sharing) |
