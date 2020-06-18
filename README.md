@@ -131,3 +131,4 @@ Para alunos da pós-graduação serão realizadas as mesmas atividades, contudo:
 |27 Maio 2020| I | Feriado | - | - |
 |03 Jun 2020| I | Avaliação Oral  | - | - |
 |10 Jun 2020| I | Computação em Nuvem | [Slides](https://docs.google.com/presentation/d/1YfmZx9BHQEPICXu1crt_n2fxe1s19k72T-LXsZNGv8A/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1MHqgDfl30XHZ0Dm-3oCpx62P0adF3-O_/view?usp=sharing) |
+|17 Jun 2020| I | Seminários | [Slides]| [Video-Aula](https://drive.google.com/file/d/1toJLaSUzE_WrIGlD5hdaFdPb0uHBFA8S/view?usp=sharing) |
