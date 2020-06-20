@@ -131,4 +131,11 @@ Para alunos da pós-graduação serão realizadas as mesmas atividades, contudo:
 |27 Maio 2020| I | Feriado | - | - |
 |03 Jun 2020| I | Avaliação Oral  | - | - |
 |10 Jun 2020| I | Computação em Nuvem | [Slides](https://docs.google.com/presentation/d/1YfmZx9BHQEPICXu1crt_n2fxe1s19k72T-LXsZNGv8A/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1MHqgDfl30XHZ0Dm-3oCpx62P0adF3-O_/view?usp=sharing) |
-|17 Jun 2020| I | Seminários | [Slides]| [Video-Aula](https://drive.google.com/file/d/1toJLaSUzE_WrIGlD5hdaFdPb0uHBFA8S/view?usp=sharing) |
+|17 Jun 2020| I | Complex Event Processing | [Slides](https://drive.google.com/file/d/12H9YCwMgvdpaeusYEZiasZO7ru6fi4Sw/view?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1toJLaSUzE_WrIGlD5hdaFdPb0uHBFA8S/view?usp=sharing) |
+|17 Jun 2020| I | MQTT vs COAP | [Slides](https://drive.google.com/file/d/12D4MMbJCwquf49GVBzDiNB3MFlImhFIA/view?usp=sharing)| [Video-Aula](https://drive.google.com/file/d/1toJLaSUzE_WrIGlD5hdaFdPb0uHBFA8S/view?usp=sharing) |
+|17 Jun 2020| I | Virtualização e Conteinerização | [Slides](https://drive.google.com/file/d/125bjg-AD1BKVz6MGh49GTAFTGrMCxl6A/view?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1toJLaSUzE_WrIGlD5hdaFdPb0uHBFA8S/view?usp=sharing) |
+|17 Jun 2020| I | NetCode em Jogos Distribuídos | [Slides]| [Video-Aula](https://drive.google.com/file/d/1toJLaSUzE_WrIGlD5hdaFdPb0uHBFA8S/view?usp=sharing) |
+|19 Jun 2020| I | Armazenamento com HDFS | [Slides](https://drive.google.com/file/d/122_sTMWzH6r_h3xtqKe-6QYTM3fS5_Ec/view?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/16pPamc3XPMT_kjVTwvnyZitYYnsANYLH/view?usp=sharing) |
+|19 Jun 2020| I | BitTorrent e DHT | [Slides](https://drive.google.com/file/d/11vncefEyw7uj73sedzOnxe9zZXemX2Fw/view?usp=sharing)| [Video-Aula](https://drive.google.com/file/d/1Ra6c5zb8V7bzMHT8kVTC5CrZPgaV1VUk/view?usp=sharing) |
+|19 Jun 2020| I | Plataformas para o desenvolvimento de Microsserviços | [Slides](https://drive.google.com/file/d/11xJdbsYsiymJlqR5EFgLiTbFPnIv2v0N/view?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/11OP3AwONctnAxPd_-M5_idPOucwC2o34/view?usp=sharing) |
+|19 Jun 2020|  | [Quadro Final de Notas](https://docs.google.com/spreadsheets/d/1wgCxkO1r8XP4abtXDaShHL-qjSfGMAV92lJp3iqgrM0/edit?usp=sharing) |  |  |
