@@ -13,7 +13,7 @@
 
 ### Local
 
-UFC, horário: Quartas-feiras (14:00-18:00), Bloco Didático SMD, Laboratório I.
+UFC, horário: Quartas-feiras (14:00-18:00), Aulas remotas.
 
 ### Edições passadas
 
@@ -107,35 +107,25 @@ Para alunos da pós-graduação serão realizadas as mesmas atividades, contudo:
 
 | Aulas      | Parte | Tópicos                      | Recursos | Tarefas/Artigos |
 |:-------------:|:----:|-----------------------------|:---------:|:-----------:|
-|19 Fev 2020| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | [Slides Apresentação - PDF](https://docs.google.com/presentation/d/1qsTQLNICmc5I--f2MvAkqfhsuJ-lxy_4KxNw03OXydk/edit?usp=sharing) | - |
-|19 Fev 2020| II | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Fundamentos SD - PDF](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing) | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/roteiros/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
-|26 Feb 2020| I e II | Carnaval | - | - |
-|04 Mar 2020| I e II | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | [Slides Fundamentos SD - PDF](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing)  | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/roteiros/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
-|11 Mar 2020| II | Atividade Prática de Revisão de Redes - Wireshark| - | [Link ](https://github.com/famt/sd/blob/2020.1/praticas/aula02_Pr%C3%A1ticaWireshark_Avan%C3%A7ada2020.doc)  |
-|18 Mar 2020| I e II | Modelos de Comunicação e Arquitetura | [Slides PDF](https://docs.google.com/presentation/d/11b_woecjabbineXLuXrQncKQhJ6j0PzDTvaEvtypJq0/edit?usp=sharing) | [Texto Interessante](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) |
-|18 Mar 2020| I e II | Modelos de Comunicação e Arquitetura | -  | [Video-Aula ](https://fernandotrinta.my.webex.com/recordingservice/sites/fernandotrinta.my/recording/play/1f866516a3ac4a228eaac2b2e5bb7d3b) |
-|25 Mar 2020| I e II | Data Carta Magna do Ceará (Estadual) | -  | - |
-|01 Abr 2020| I | Encontros Universitários 2020 | - | - |
-|01 Abr 2020| I | Envio Vídeo da atividade sobre Arquitetura de SDs  | - | - |
-|01 Abr 2020| I | Modelos de Comunicação e Arquitetura(cont.) | [Slides PDF](https://docs.google.com/presentation/d/11b_woecjabbineXLuXrQncKQhJ6j0PzDTvaEvtypJq0/edit?usp=sharing) | - |
-|08 Abr 2020| I | RPC/RMI e mecanismos avançados | [Slides PDF](https://docs.google.com/presentation/d/1y06Gi49f24wjCNmi43foCX-pc5hDF2eGo9k2I7kFbRA/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1E1_8r0IbaXzFrRbIG3mck3w0p_LDdwlH/view?usp=sharing) |
-|08 Abr 2020| I | Revisão e Observações gerais sobre a atividade modelos arquiteturais e estilos arquitetônicos | - | - |
-|15 Abr 2020| II | Threads e Processos (Teoria) | [Slides PDF](https://docs.google.com/presentation/d/17-1RGQQZcE5pH2kUQZFhrMtGE_mf5kHyLvj08BNKa9g/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1Xb4AhNX-300LwWGbTR7iFzcwdMJkiL6R/view?usp=sharing) |
-|15 Abr 2020| I e II | Threads e Processos (Prática) | - | [Exemplos IPC](https://github.com/famt/sd/blob/2020.1/exemplos_code/ExemplosThreads.zip) |
-|22 Abr 2020| I e II | Algoritmos Distribuídos - Relógios Lógicos e Exclusão Mútua. | [Slides](https://docs.google.com/presentation/d/1bl51LAz48ZJC31Ynm7Kj2mtkqEWtbpKiIgjkYWcixXk/edit?usp=sharing)  | [Vídeo-Aula](https://drive.google.com/file/d/1Gv8Z5hGoCp2jm_txeuXq2pYGDIC0Xe4R/view?usp=sharing)
-|29 Abr 2020| I e II | Modelos de Representação de Dados (Aula Invertida) |  [Slides](https://docs.google.com/presentation/d/1kOuOLCtfoxjaXI4qnkBc68En07XrmDi6Zbrymnhq-QI/edit?usp=sharing)  | [Roteiro Aula Invertidas](https://docs.google.com/document/d/1PVh_aoVnh3cERheUpfsz4csVLKZFGT9HI_sxPkddTcw/edit?usp=sharing) &  [Vídeo-Aula](https://drive.google.com/file/d/1Hkznpxd-YwucZQ4VsOpTS_F5iivCQc4Z/view?usp=sharing) |
-|06 Maio 2020| I e II | Revisão Sockets e MQTT | Roteiro de Estudos enviado pelo SIGAA | Trabalho |
-|06 Maio 2020| I e II | Algoritmos Distribuídos - Algoritmos de Eleição | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing) | [Vídeo-Aula Parte I](https://drive.google.com/file/d/1jeb3cdvJzqZy2sqcXXe4Tg8KYiWgCpgJ/view?usp=sharing) [Vídeo-Aula Parte II](https://drive.google.com/file/d/1h6F6cqeK9oyyWUiNIbYUOwbIgZJlcqUB/view?usp=sharing) |
-|13 Maio 2020| II | SOA | [Slides](https://github.com/famt/sd/blob/2020.1/slides/soa.pdf)  | [Video-Aula](https://drive.google.com/file/d/1KTfGvShLNWoqUKHCTbiRc1SG7249gHdE/view?usp=sharing) |
-|20 Maio 2020| II | Tira Dúvidas para Avaliação | Estudo Dirigido | - 
-|27 Maio 2020| I | Feriado | - | - |
-|03 Jun 2020| I | Avaliação Oral  | - | - |
-|10 Jun 2020| I | Computação em Nuvem | [Slides](https://docs.google.com/presentation/d/1YfmZx9BHQEPICXu1crt_n2fxe1s19k72T-LXsZNGv8A/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1MHqgDfl30XHZ0Dm-3oCpx62P0adF3-O_/view?usp=sharing) |
-|17 Jun 2020| I | Complex Event Processing | [Slides](https://drive.google.com/file/d/12H9YCwMgvdpaeusYEZiasZO7ru6fi4Sw/view?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1toJLaSUzE_WrIGlD5hdaFdPb0uHBFA8S/view?usp=sharing) |
-|17 Jun 2020| I | MQTT vs COAP | [Slides](https://drive.google.com/file/d/12D4MMbJCwquf49GVBzDiNB3MFlImhFIA/view?usp=sharing)| [Video-Aula](https://drive.google.com/file/d/1toJLaSUzE_WrIGlD5hdaFdPb0uHBFA8S/view?usp=sharing) (38m:20s) |
-|17 Jun 2020| I | Virtualização e Conteinerização | [Slides](https://drive.google.com/file/d/125bjg-AD1BKVz6MGh49GTAFTGrMCxl6A/view?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1toJLaSUzE_WrIGlD5hdaFdPb0uHBFA8S/view?usp=sharing) (01h:14m:00s) |
-|17 Jun 2020| I | NetCode em Jogos Distribuídos | [Slides](https://drive.google.com/file/d/12fcZ3UF6LXLIBfSabP-duJxApHN-J3AG/view?usp=sharing)| [Video-Aula](https://drive.google.com/file/d/1toJLaSUzE_WrIGlD5hdaFdPb0uHBFA8S/view?usp=sharing) 02h:04m:30s) |
-|19 Jun 2020| I | Armazenamento com HDFS | [Slides](https://drive.google.com/file/d/122_sTMWzH6r_h3xtqKe-6QYTM3fS5_Ec/view?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/16pPamc3XPMT_kjVTwvnyZitYYnsANYLH/view?usp=sharing) |
-|19 Jun 2020| I | BitTorrent e DHT | [Slides](https://drive.google.com/file/d/11vncefEyw7uj73sedzOnxe9zZXemX2Fw/view?usp=sharing)| [Video-Aula](https://drive.google.com/file/d/1Ra6c5zb8V7bzMHT8kVTC5CrZPgaV1VUk/view?usp=sharing) |
-|19 Jun 2020| I | Plataformas para o desenvolvimento de Microsserviços | [Slides](https://drive.google.com/file/d/11xJdbsYsiymJlqR5EFgLiTbFPnIv2v0N/view?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/11OP3AwONctnAxPd_-M5_idPOucwC2o34/view?usp=sharing) |
-|19 Jun 2020|  | [Quadro Final de Notas](https://docs.google.com/spreadsheets/d/1wgCxkO1r8XP4abtXDaShHL-qjSfGMAV92lJp3iqgrM0/edit?usp=sharing) |  |  |
+|22 Jul 2020| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | [Slides Apresentação - PDF](https://docs.google.com/presentation/d/1qsTQLNICmc5I--f2MvAkqfhsuJ-lxy_4KxNw03OXydk/edit?usp=sharing) | - |
+|22 Jul 2020| I | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Fundamentos SD - PDF](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing) | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/roteiros/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
+|22 Jul 2020| I e II | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | [Slides Fundamentos SD - PDF](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing)  | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/roteiros/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
+|22 Jul 2020| II | Atividade Prática de Revisão de Redes - Wireshark| - | [Link ](https://github.com/famt/sd/blob/2020.1/praticas/aula02_Pr%C3%A1ticaWireshark_Avan%C3%A7ada2020.doc)  |
+|22 Jul 2020| I e II | Modelos de Comunicação e Arquitetura | [Slides PDF](https://docs.google.com/presentation/d/11b_woecjabbineXLuXrQncKQhJ6j0PzDTvaEvtypJq0/edit?usp=sharing) | [Texto Interessante](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) |
+|29 Jul 2020| I e II | Modelos de Comunicação e Arquitetura | -  | [Video-Aula ](https://fernandotrinta.my.webex.com/recordingservice/sites/fernandotrinta.my/recording/play/1f866516a3ac4a228eaac2b2e5bb7d3b) |
+|05 Ago 2020| I | Envio Vídeo da atividade sobre Arquitetura de SDs  | - | - |
+|05 Ago 2020| I | Modelos de Comunicação e Arquitetura(cont.) | [Slides PDF](https://docs.google.com/presentation/d/11b_woecjabbineXLuXrQncKQhJ6j0PzDTvaEvtypJq0/edit?usp=sharing) | - |
+|05 Ago 2020| I | RPC/RMI e mecanismos avançados | [Slides PDF](https://docs.google.com/presentation/d/1y06Gi49f24wjCNmi43foCX-pc5hDF2eGo9k2I7kFbRA/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1E1_8r0IbaXzFrRbIG3mck3w0p_LDdwlH/view?usp=sharing) |
+|12 Ago 2020| II | Threads e Processos (Teoria) | [Slides PDF](https://docs.google.com/presentation/d/17-1RGQQZcE5pH2kUQZFhrMtGE_mf5kHyLvj08BNKa9g/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1Xb4AhNX-300LwWGbTR7iFzcwdMJkiL6R/view?usp=sharing) |
+|12 Ago 2020| I e II | Threads e Processos (Prática) | - | [Exemplos IPC](https://github.com/famt/sd/blob/2020.1/exemplos_code/ExemplosThreads.zip) |
+|19 Ago 2020| I e II | Algoritmos Distribuídos - Relógios Lógicos e Exclusão Mútua. | [Slides](https://docs.google.com/presentation/d/1bl51LAz48ZJC31Ynm7Kj2mtkqEWtbpKiIgjkYWcixXk/edit?usp=sharing)  | [Vídeo-Aula](https://drive.google.com/file/d/1Gv8Z5hGoCp2jm_txeuXq2pYGDIC0Xe4R/view?usp=sharing)
+|26 Ago 2020| I e II | Modelos de Representação de Dados (Aula Invertida) |  [Slides](https://docs.google.com/presentation/d/1kOuOLCtfoxjaXI4qnkBc68En07XrmDi6Zbrymnhq-QI/edit?usp=sharing)  | [Roteiro Aula Invertidas](https://docs.google.com/document/d/1PVh_aoVnh3cERheUpfsz4csVLKZFGT9HI_sxPkddTcw/edit?usp=sharing) &  [Vídeo-Aula](https://drive.google.com/file/d/1Hkznpxd-YwucZQ4VsOpTS_F5iivCQc4Z/view?usp=sharing) |
+|02 Set 2020| I e II | Revisão Sockets e MQTT | Roteiro de Estudos enviado pelo SIGAA | Trabalho |
+|02 Set 2020| I e II | Algoritmos Distribuídos - Algoritmos de Eleição | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing) | [Vídeo-Aula Parte I](https://drive.google.com/file/d/1jeb3cdvJzqZy2sqcXXe4Tg8KYiWgCpgJ/view?usp=sharing) [Vídeo-Aula Parte II](https://drive.google.com/file/d/1h6F6cqeK9oyyWUiNIbYUOwbIgZJlcqUB/view?usp=sharing) |
+|09 Set 2020| II | SOA | [Slides](https://github.com/famt/sd/blob/2020.1/slides/soa.pdf)  | [Video-Aula](https://drive.google.com/file/d/1KTfGvShLNWoqUKHCTbiRc1SG7249gHdE/view?usp=sharing) |
+|09 Set 2020| II | Tira Dúvidas para Avaliação | Estudo Dirigido | - 
+|16 Set 2020| I | Avaliação Oral  | - | - |
+|23 Set 2020| I | Computação em Nuvem | [Slides](https://docs.google.com/presentation/d/1YfmZx9BHQEPICXu1crt_n2fxe1s19k72T-LXsZNGv8A/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1MHqgDfl30XHZ0Dm-3oCpx62P0adF3-O_/view?usp=sharing) |
+|30 Set 2020| I | Seminários |
+|07 Out 2020| I | Prova Final |
+
