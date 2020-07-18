@@ -70,7 +70,7 @@ Modelos e arquitetura de sistemas distribuídos, comunição entre processos, ch
 
 ### Metodologia
 
-A metodologia do curso constará de aulas expositivas, enriquecidas por seminários e debates com a utilização de recursos audiovisuais. As avaliações serão baseadas nas aulas, práticas e trabalhos de teórico/práticos.
+Em função da pandemia de Covid-19, a metodologia utilizará uma abordagem de ensino remoto emergencial. As aulas já se encontram gravadas com os tópicos do curso. Alunos utilizarão estas aulas para estudo, do modo (horário e local) que lhes for mais conveniente. Encontros síncronos nos horários previstos para aulas presenciais serão utilizados para sanar dúvidas. 
 
 ### Pré-Requisitos
 
@@ -92,7 +92,7 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 
 ### Avaliação
 Para alunos da graduação serão realizadas três atividades e mais práticas em sala:
-- 1 prova escrita (AP1);
+- 1 prova oral (AP1);
 - 5 práticas (PT1-PT5);
 - 1 Trabalho de Prático sobre MQTT/Sockets (TB1);
 - A média final da disciplina será calculada por meio de uma média  das notas
