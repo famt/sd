@@ -13,7 +13,7 @@
 
 ### Local
 
-UFC, horário: Quartas-feiras (14:00-18:00), Aulas remotas.
+Aulas remotas assíncronas eventualmente as Quartas-feiras (14:00-18:00).
 
 ### Edições passadas
 
@@ -92,16 +92,13 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 
 ### Avaliação
 Para alunos da graduação serão realizadas três atividades e mais práticas em sala:
-- 1 prova oral (AP1);
-- 5 práticas (PT1-PT5);
-- 1 Trabalho de Prático sobre MQTT/Sockets (TB1);
+- 1 avaliação individual (AP1);
+- 4 atividades práticas (AT1-AT4);
+- 1 Seminário final (Sem1);
 - A média final da disciplina será calculada por meio de uma média  das notas
 
-**NF = [(AP1 + TB1 + (PT1 + ... + PT5)/5)]/3**
+**NF = [(AP1 + Sem1 + (PT1 + ... + PT4)/4)]/3**
 
-Para alunos da pós-graduação serão realizadas as mesmas atividades, contudo:
-- Tudo que é pedido à graduação com maior número de questões, e 
-- Com nível de exigência maior na correção e nos quesitos avaliados;
 
 ### Plano de aulas
 
