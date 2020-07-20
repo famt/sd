@@ -119,7 +119,7 @@ Para alunos da graduação serão realizadas três atividades e mais práticas e
 |26 Ago 2020| I e II | Modelos de Representação de Dados (Aula Invertida) |  [Slides](https://docs.google.com/presentation/d/1kOuOLCtfoxjaXI4qnkBc68En07XrmDi6Zbrymnhq-QI/edit?usp=sharing)  | [Roteiro Aula Invertidas](https://docs.google.com/document/d/1PVh_aoVnh3cERheUpfsz4csVLKZFGT9HI_sxPkddTcw/edit?usp=sharing) &  [Vídeo-Aula](https://drive.google.com/file/d/1Hkznpxd-YwucZQ4VsOpTS_F5iivCQc4Z/view?usp=sharing) & [Tarefas (AT4)](https://docs.google.com/document/d/1mqrGuvmrGTPytnkYvxZaNiO79YUwEMmL9ODbu6CM-gE/edit?usp=sharing)|
 |02 Set 2020| I e II | Algoritmos Distribuídos - Algoritmos de Eleição | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing) | [Vídeo-Aula Parte I](https://drive.google.com/file/d/1jeb3cdvJzqZy2sqcXXe4Tg8KYiWgCpgJ/view?usp=sharing) [Vídeo-Aula Parte II](https://drive.google.com/file/d/1h6F6cqeK9oyyWUiNIbYUOwbIgZJlcqUB/view?usp=sharing) |
 |09 Set 2020| II | SOA | [Slides](https://github.com/famt/sd/blob/2020.1/slides/soa.pdf)  | [Video-Aula](https://drive.google.com/file/d/1KTfGvShLNWoqUKHCTbiRc1SG7249gHdE/view?usp=sharing) |
-|09 Set 2020| II | Tira Dúvidas para Avaliação | Estudo Dirigido | - 
+|09 Set 2020| II | Tira Dúvidas para Avaliação | [Estudo Dirigido](https://docs.google.com/document/d/12Df41DFg8AvknQUdyj8WYF2JWsaC5UUmPqNDoRsGthU/edit?usp=sharing) | - 
 |16 Set 2020| I | Avaliação Oral  | - | - |
 |23 Set 2020| I | Computação em Nuvem | [Slides](https://docs.google.com/presentation/d/1YfmZx9BHQEPICXu1crt_n2fxe1s19k72T-LXsZNGv8A/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1MHqgDfl30XHZ0Dm-3oCpx62P0adF3-O_/view?usp=sharing) |
 |30 Set 2020| I | Seminários |
