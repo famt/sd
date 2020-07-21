@@ -104,7 +104,7 @@ Para alunos da graduação serão realizadas três atividades e mais práticas e
 
 | Aulas      | Parte | Tópicos                      | Recursos | Tarefas/Artigos |
 |:-------------:|:----:|-----------------------------|:---------:|:-----------:|
-|22 Jul 2020| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | [Slides Apresentação - PDF](https://docs.google.com/presentation/d/1qsTQLNICmc5I--f2MvAkqfhsuJ-lxy_4KxNw03OXydk/edit?usp=sharing) | - |
+|22 Jul 2020| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | [Slides Apresentação - PDF](https://docs.google.com/presentation/d/1H6LWwwTbnnIyze2AmrrwUqWo9UkHQJBYhCawkLqLepU/edit?usp=sharing) | [Vídeo - Aula](https://youtu.be/WZR7B6bbj2w) |
 |22 Jul 2020| I | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Fundamentos SD - PDF](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing) | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/roteiros/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
 |22 Jul 2020| I e II | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | [Slides Fundamentos SD - PDF](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing)  | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/roteiros/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
 |22 Jul 2020| II | Atividade Prática de Revisão de Redes - Wireshark (AT1)| - | [Link ](https://github.com/famt/sd/blob/2020.1/praticas/aula02_Pr%C3%A1ticaWireshark_Avan%C3%A7ada2020.doc)  |
