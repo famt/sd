@@ -103,7 +103,7 @@ A média final é uma média ponderada das notas
 
 | Aulas      | Parte | Tópicos                      | Recursos | Tarefas/Artigos |
 |:-------------:|:----:|-----------------------------|:---------:|:-----------:|
-|11 Mai 2021| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | [Slides Apresentação](https://docs.google.com/presentation/d/1SGAkG5VkT3mJu5b4g4_Gu9Q1DWQ5CG5f09jsGOlWlyY/edit?usp=sharing) | [Vídeo - Aula]() |
+|11 Mai 2021| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | [Slides Apresentação](https://docs.google.com/presentation/d/1SGAkG5VkT3mJu5b4g4_Gu9Q1DWQ5CG5f09jsGOlWlyY/edit?usp=sharing) | [Vídeo - Aula](https://drive.google.com/file/d/16d2LOJDifBN9O-PK-dPF_VGZqVuMbtvc/view?usp=sharing) |
 |13 Mai 2021| I | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Fundamentos SD - PDF](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing) | [Vídeo - Aula]() |
 |18 Mai 2021| I e II | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | [Slides Fundamentos SD](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing)  | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/roteiros/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
 |20 Mai 2021| II | Atividade Prática de Revisão de Redes - Wireshark (AT1)| - | [Link ](https://github.com/famt/sd/blob/2020.1/praticas/aula02_Pr%C3%A1ticaWireshark_Avan%C3%A7ada2020.doc)  |
