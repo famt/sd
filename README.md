@@ -13,7 +13,7 @@
 
 ### Local
 
-Aulas remotas assíncronas eventualmente as terças-feiras e quintas-feiras (16:00-18:00).
+Aulas remotas assíncronas eventualmente as terças-feiras e quintas-feiras (16:00-18:00) pelo Google Meet.
 
 ### Edições passadas
 
