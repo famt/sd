@@ -91,14 +91,12 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 
 
 ### Avaliação
-Para alunos da graduação serão realizadas três atividades e mais práticas em sala:
+ 1 avaliação individual adaptativa (AP1);
+ 6 atividades práticas (AT1-AT6);
+ 1 Seminário final (Sem1);
 
-- 1 avaliação individual (AP1);
-- 5 atividades práticas (AT1-AT5);
-- 1 Seminário final (Sem1);
-- A média final da disciplina será calculada por meio de uma média  das notas
-
-**NF = 0.2*AP1 + 0.2*Sem1 + 0.6*(PT1 + ... + PT5)/5**
+A média final é uma média ponderada das notas
+**NF = [(0.2*AP1 + 0.2*Sem1 + (PT1 + ... + PT6)]**
 
 
 ### Plano de aulas
@@ -106,10 +104,10 @@ Para alunos da graduação serão realizadas três atividades e mais práticas e
 | Aulas      | Parte | Tópicos                      | Recursos | Tarefas/Artigos |
 |:-------------:|:----:|-----------------------------|:---------:|:-----------:|
 |11 Mai 2021| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | [Slides Apresentação - PDF](https://docs.google.com/presentation/d/1SGAkG5VkT3mJu5b4g4_Gu9Q1DWQ5CG5f09jsGOlWlyY/edit?usp=sharing) | [Vídeo - Aula]() |
-|13 Mai 2020| I | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Fundamentos SD - PDF](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing) | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/roteiros/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
-|18 Mai 2020| I e II | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | [Slides Fundamentos SD - PDF](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing)  | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/roteiros/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
-|20 Mai 2020| II | Atividade Prática de Revisão de Redes - Wireshark (AT1)| - | [Link ](https://github.com/famt/sd/blob/2020.1/praticas/aula02_Pr%C3%A1ticaWireshark_Avan%C3%A7ada2020.doc)  |
-|25 Ma 2020| I e II | Modelos de Comunicação e Arquitetura | [Slides PDF](https://docs.google.com/presentation/d/11b_woecjabbineXLuXrQncKQhJ6j0PzDTvaEvtypJq0/edit?usp=sharing) | [Texto Interessante](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) |
+|13 Mai 2021| I | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Fundamentos SD - PDF](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing) | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/roteiros/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
+|18 Mai 2021| I e II | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | [Slides Fundamentos SD - PDF](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing)  | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2020.1/roteiros/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
+|20 Mai 2021| II | Atividade Prática de Revisão de Redes - Wireshark (AT1)| - | [Link ](https://github.com/famt/sd/blob/2020.1/praticas/aula02_Pr%C3%A1ticaWireshark_Avan%C3%A7ada2020.doc)  |
+|25 Mai 2021| I e II | Modelos de Comunicação e Arquitetura | [Slides PDF](https://docs.google.com/presentation/d/11b_woecjabbineXLuXrQncKQhJ6j0PzDTvaEvtypJq0/edit?usp=sharing) | [Texto Interessante](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) |
 |29 Jul 2020| I e II | Modelos de Comunicação e Arquitetura | -  | [Video-Aula_Parte 1 ](https://www.youtube.com/watch?v=ohXmcFZchCs) & [Video-Aula_Parte 2 ](https://www.youtube.com/watch?v=XhvTjuArDDE) |
 |05 Ago 2020| I | RPC/RMI e mecanismos avançados | [Slides PDF](https://docs.google.com/presentation/d/1y06Gi49f24wjCNmi43foCX-pc5hDF2eGo9k2I7kFbRA/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1E1_8r0IbaXzFrRbIG3mck3w0p_LDdwlH/view?usp=sharing) & [Tarefa (AT3) - Comunicação simples](https://docs.google.com/document/d/1XOE_2dnhXEAQFUiBx-LXcrJOoFVjhW_HFgftEdQ67SU/edit?usp=sharing)|
 |10 Ago 2020| I | Envio Vídeo da atividade sobre Arquitetura de SDs (AT2) | - | - |
