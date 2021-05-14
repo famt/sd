@@ -109,6 +109,8 @@ A média final é uma média ponderada das notas
 |20 Mai 2021| I | Atividade Prática de Revisão de Redes - Wireshark (AT1)| [Roteiro de Estudo](https://docs.google.com/document/d/1x1pQkacABFVx5cVMz03ssR1QDWyWH_fcdYBq8fhGCAQ/edit?usp=sharing) | [Atividade](https://docs.google.com/document/d/17o74YyhMWitWC0CQpGtu3vQpvzOqoKqpISZHP1x6i38/edit?usp=sharing) |
 |25-27 Mai 2021| I | Modelos de Comunicação e Arquitetura | [Slides](https://docs.google.com/presentation/d/11b_woecjabbineXLuXrQncKQhJ6j0PzDTvaEvtypJq0/edit?usp=sharing) | [Video-Aula_Parte 1 ](https://www.youtube.com/watch?v=ohXmcFZchCs) |
 |25-27 Mai 2021| I | Modelos de Comunicação e Arquitetura | [Texto Interessante](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)  | [Video-Aula_Parte 2 ](https://www.youtube.com/watch?v=XhvTjuArDDE) |
+|1-3 Jun 2021| I | Apresentação dos Trabalhos | [Descrição da Tarefa]() | [Escolha o Tema]() |
+|XXXXXX| I | XXXXXXX | [XXXXXXX]() | [XXXXXXXX]() |
 |05 Ago 2020| I | RPC/RMI e mecanismos avançados | [Slides PDF](https://docs.google.com/presentation/d/1y06Gi49f24wjCNmi43foCX-pc5hDF2eGo9k2I7kFbRA/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1E1_8r0IbaXzFrRbIG3mck3w0p_LDdwlH/view?usp=sharing) & [Tarefa (AT3) - Comunicação simples](https://docs.google.com/document/d/1XOE_2dnhXEAQFUiBx-LXcrJOoFVjhW_HFgftEdQ67SU/edit?usp=sharing)|
 |10 Ago 2020| I | Envio Vídeo da atividade sobre Arquitetura de SDs (AT2) | - | - |
 |12 Ago 2020| II | Threads e Processos (Teoria) | [Slides PDF](https://docs.google.com/presentation/d/17-1RGQQZcE5pH2kUQZFhrMtGE_mf5kHyLvj08BNKa9g/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1Xb4AhNX-300LwWGbTR7iFzcwdMJkiL6R/view?usp=sharing) |
