@@ -111,7 +111,7 @@ A média final é uma média ponderada das notas
 |25-27 Mai 2021| I | Modelos de Comunicação e Arquitetura | [Texto Interessante](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)  | [Video-Aula_Parte 2 ](https://www.youtube.com/watch?v=XhvTjuArDDE) |
 |1 Jun 2021| I | Estudo sobre o seu SD | [Descrição da Tarefa](https://docs.google.com/document/d/1Pf4gBAxFtl5k8wBhz4xz-EO68avxgSP0ViqGDA5tUIs/edit?usp=sharing) | [Escolha o Tema](https://docs.google.com/document/d/1plJ8TkYylTDTQxpm78byH8V7f4yMQboad1HBPAxzNE0/edit?usp=sharing) |
 |8-10 Jun 2021| I | Apresentação dos Trabalhos | Encontro Síncrono | [Escolha o seu horário]() |
-|15 Jun 2021| I | Paradigmas de Comunicação - AT3 | [Slides PDF](https://docs.google.com/presentation/d/1y06Gi49f24wjCNmi43foCX-pc5hDF2eGo9k2I7kFbRA/edit?usp=sharing) | [Roteiro da aula](https://docs.google.com/document/d/1b5w44_XbeXNJPcGILghJYf_SAcr3Ro5tzF90cGlNX6M/edit?ts=60c89350) & <br/>[Tarefa (AT3) - Comunicação simples](https://docs.google.com/document/d/1XOE_2dnhXEAQFUiBx-LXcrJOoFVjhW_HFgftEdQ67SU/edit?usp=sharing)|
+|15 Jun 2021| I | Paradigmas de Comunicação - AT3 | [Slides PDF](https://docs.google.com/presentation/d/1y06Gi49f24wjCNmi43foCX-pc5hDF2eGo9k2I7kFbRA/edit?usp=sharing) | [Roteiro da aula](https://docs.google.com/document/d/1b5w44_XbeXNJPcGILghJYf_SAcr3Ro5tzF90cGlNX6M/edit?ts=60c89350) |
 |17 Jun 2021| II | Paradigmas de Comunicação - Comunicação Indireta | - | - |
 |XXXXXX| I | XXXXXXX | [XXXXXXX]() | [XXXXXXXX]() |
 |10 Ago 2020| I | Envio Vídeo da atividade sobre Arquitetura de SDs (AT2) | - | - |
