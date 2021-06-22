@@ -113,6 +113,7 @@ A média final é uma média ponderada das notas
 |8-10 Jun 2021| I | Apresentação dos Trabalhos | Encontro Síncrono | [Escolha o seu horário]() |
 |15 Jun 2021| I | Paradigmas de Comunicação - AT3 | [Slides PDF](https://docs.google.com/presentation/d/1y06Gi49f24wjCNmi43foCX-pc5hDF2eGo9k2I7kFbRA/edit?usp=sharing) | [Roteiro da aula](https://docs.google.com/document/d/1b5w44_XbeXNJPcGILghJYf_SAcr3Ro5tzF90cGlNX6M/edit?ts=60c89350) |
 |17 Jun 2021| II | Paradigmas de Comunicação - Comunicação Indireta | - | [Roteiro da aula](https://docs.google.com/document/d/16TgBxDgTp8KeCTG9htv65HIxo3x5oP07jyj2bh0REq0/edit?usp=sharing) |
+|22 Jun 2021| II | Invocação Remota e Comunicação Indireta | - | [Roteiro da aula](Invocação Remota e Comunicação Indireta) |
 |XXXXXX| I | XXXXXXX | [XXXXXXX]() | [XXXXXXXX]() |
 |10 Ago 2020| I | Envio Vídeo da atividade sobre Arquitetura de SDs (AT2) | - | - |
 |12 Ago 2020| II | Threads e Processos (Teoria) | [Slides PDF](https://docs.google.com/presentation/d/17-1RGQQZcE5pH2kUQZFhrMtGE_mf5kHyLvj08BNKa9g/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1Xb4AhNX-300LwWGbTR7iFzcwdMJkiL6R/view?usp=sharing) |
