@@ -116,7 +116,7 @@ A média final é uma média ponderada das notas
 |22 Jun 2021| II | Invocação Remota e Comunicação Indireta | - | [Roteiro da aula](https://docs.google.com/document/d/16dekWzI3OyvoHPDc2DErTEjmGnLj4xOY3lMWgEd3Vvg/edit?usp=sharing) |
 |24 Jun 2021| II | Threads e Processos (Teoria) | [Slides PDF](https://docs.google.com/presentation/d/17-1RGQQZcE5pH2kUQZFhrMtGE_mf5kHyLvj08BNKa9g/edit?usp=sharing) | [Roteiro da aula](https://docs.google.com/document/d/1VBVw8G0wNK6Nre5Fcly5XdPS2FV6bjspK9JydyrW8E0/edit?usp=sharing) |
 |24 Jun 2021| I e II | Threads e Processos (Prática) | - | [Exemplos IPC](https://github.com/famt/sd/blob/2020.1/exemplos_code/ExemplosThreads.zip) |
-|29 Jun 2021| I | Algoritmos Distribuídos - Relógios Lógicos e Exclusão Mútua. | [Slides](https://docs.google.com/presentation/d/1bl51LAz48ZJC31Ynm7Kj2mtkqEWtbpKiIgjkYWcixXk/edit?usp=sharing)  | [Roteiro da aula] |
+|29 Jun 2021| I | Algoritmos Distribuídos - Relógios Lógicos e Exclusão Mútua. | [Slides](https://docs.google.com/presentation/d/1bl51LAz48ZJC31Ynm7Kj2mtkqEWtbpKiIgjkYWcixXk/edit?usp=sharing)  | [Roteiro da aula](https://docs.google.com/document/d/1z582doTfWXif-FZ66fF1D0nLADWX0LO6AU0uQ8LO_bM/edit?usp=sharing) |
 |01 Ago 2021| II | Algoritmos Distribuídos - Relógios Lógicos e Exclusão Mútua. | - | - |
 |XXXXXX| I | XXXXXXX | [XXXXXXX]() | [XXXXXXXX]() |
 |10 Ago 2020| I | Envio Vídeo da atividade sobre Arquitetura de SDs (AT2) | - | - |
