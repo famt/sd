@@ -120,9 +120,9 @@ A média final é uma média ponderada das notas
 |01 Jul 2021| II | Algoritmos Distribuídos - Relógios Lógicos e Exclusão Mútua. | - | - |
 |06-08-13 Jul 2021| I e II | Modelos de Representação de Dados (Aula Invertida) |  [Slides](https://docs.google.com/presentation/d/1kOuOLCtfoxjaXI4qnkBc68En07XrmDi6Zbrymnhq-QI/edit?usp=sharing)  | [Roteiro Aula](https://docs.google.com/document/d/1M4q1QjFJC152jYjBggKwA79thQ-U0UIw-CXjOlDlXmQ/edit?usp=sharing) |
 |20-22-27 Jul 2021| I e II | SOA_Webservices_Microservice | [Slides](https://github.com/famt/sd/blob/2020.1/slides/soa.pdf)  | [Roteiro Aula](https://docs.google.com/document/d/1Ugt9m5-nTuUd7ol5JkGLSbLCfOb5-SnmwVfYBFTUvv0/edit?usp=sharing) |
+|29 Jul 03 Ago 2021| I e II | Algoritmos Distribuídos - Algoritmos de Eleição | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing) | [Roteiro da aula](https://docs.google.com/document/d/1vEI9abYg7PILytS4M9OoanM_voHUnOkgw6yE2Ohq1nU/edit?usp=sharing) |
 |XXXXXX| I | XXXXXXX | [XXXXXXX]() | [XXXXXXXX]() |
 |10 Ago 2020| I | Envio Vídeo da atividade sobre Arquitetura de SDs (AT2) | - | - |
-|02 Set 2020| I e II | Algoritmos Distribuídos - Algoritmos de Eleição | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing) | [Vídeo-Aula Parte I](https://drive.google.com/file/d/1jeb3cdvJzqZy2sqcXXe4Tg8KYiWgCpgJ/view?usp=sharing) [Vídeo-Aula Parte II](https://drive.google.com/file/d/1h6F6cqeK9oyyWUiNIbYUOwbIgZJlcqUB/view?usp=sharing) |
 |09 Set 2020| II | Tira Dúvidas para Avaliação | [Estudo Dirigido](https://docs.google.com/document/d/12Df41DFg8AvknQUdyj8WYF2JWsaC5UUmPqNDoRsGthU/edit?usp=sharing) | - 
 |16 Set 2020| I | Avaliação Oral  | - | - |
 |23 Set 2020| I | Computação em Nuvem | [Slides](https://docs.google.com/presentation/d/1YfmZx9BHQEPICXu1crt_n2fxe1s19k72T-LXsZNGv8A/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1MHqgDfl30XHZ0Dm-3oCpx62P0adF3-O_/view?usp=sharing) |
