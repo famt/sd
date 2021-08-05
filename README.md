@@ -121,6 +121,7 @@ A média final é uma média ponderada das notas
 |06-08-13 Jul 2021| I e II | Modelos de Representação de Dados (Aula Invertida) |  [Slides](https://docs.google.com/presentation/d/1kOuOLCtfoxjaXI4qnkBc68En07XrmDi6Zbrymnhq-QI/edit?usp=sharing)  | [Roteiro Aula](https://docs.google.com/document/d/1M4q1QjFJC152jYjBggKwA79thQ-U0UIw-CXjOlDlXmQ/edit?usp=sharing) |
 |20-22-27 Jul 2021| I e II | SOA_Webservices_Microservice | [Slides](https://github.com/famt/sd/blob/2020.1/slides/soa.pdf)  | [Roteiro Aula](https://docs.google.com/document/d/1Ugt9m5-nTuUd7ol5JkGLSbLCfOb5-SnmwVfYBFTUvv0/edit?usp=sharing) |
 |29 Jul 03 Ago 2021| I e II | Algoritmos Distribuídos - Algoritmos de Eleição | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing) | [Roteiro da aula](https://docs.google.com/document/d/1vEI9abYg7PILytS4M9OoanM_voHUnOkgw6yE2Ohq1nU/edit?usp=sharing) |
+|05 Ago 2021| I | Descoberta de Serviços | - | - |
 |XXXXXX| I | XXXXXXX | [XXXXXXX]() | [XXXXXXXX]() |
 |10 Ago 2020| I | Envio Vídeo da atividade sobre Arquitetura de SDs (AT2) | - | - |
 |09 Set 2020| II | Tira Dúvidas para Avaliação | [Estudo Dirigido](https://docs.google.com/document/d/12Df41DFg8AvknQUdyj8WYF2JWsaC5UUmPqNDoRsGthU/edit?usp=sharing) | - 
