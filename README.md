@@ -122,11 +122,14 @@ A média final é uma média ponderada das notas
 |20-22-27 Jul 2021| I e II | SOA_Webservices_Microservice | [Slides](https://github.com/famt/sd/blob/2020.1/slides/soa.pdf)  | [Roteiro Aula](https://docs.google.com/document/d/1Ugt9m5-nTuUd7ol5JkGLSbLCfOb5-SnmwVfYBFTUvv0/edit?usp=sharing) |
 |29 Jul 03 Ago 2021| I e II | Algoritmos Distribuídos - Algoritmos de Eleição | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing) | [Roteiro da aula](https://docs.google.com/document/d/1vEI9abYg7PILytS4M9OoanM_voHUnOkgw6yE2Ohq1nU/edit?usp=sharing) |
 |05 Ago 2021| I | Descoberta de Serviços | - | - |
+|10 Ago 2021| I | Estudo Dirigido | - | - |
+|12 Ago 2021| I | Estudo Dirigido/Tira-Dúvidas | - | - |
+|17 Ago 2021| I | Avaliação | - | - |
+|19 e 24 Ago 2021| I | Computação em Nuvem | [Slides](https://docs.google.com/presentation/d/1YfmZx9BHQEPICXu1crt_n2fxe1s19k72T-LXsZNGv8A/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1MHqgDfl30XHZ0Dm-3oCpx62P0adF3-O_/view?usp=sharing) |
 |XXXXXX| I | XXXXXXX | [XXXXXXX]() | [XXXXXXXX]() |
 |10 Ago 2020| I | Envio Vídeo da atividade sobre Arquitetura de SDs (AT2) | - | - |
 |09 Set 2020| II | Tira Dúvidas para Avaliação | [Estudo Dirigido](https://docs.google.com/document/d/12Df41DFg8AvknQUdyj8WYF2JWsaC5UUmPqNDoRsGthU/edit?usp=sharing) | - 
 |16 Set 2020| I | Avaliação Oral  | - | - |
-|23 Set 2020| I | Computação em Nuvem | [Slides](https://docs.google.com/presentation/d/1YfmZx9BHQEPICXu1crt_n2fxe1s19k72T-LXsZNGv8A/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1MHqgDfl30XHZ0Dm-3oCpx62P0adF3-O_/view?usp=sharing) |
 |14 Out 2020| I | Seminários | [Slides de GRPC (Marcus André)](https://drive.google.com/file/d/1sLRNcZI46WO-Pgdr68998YNq7r5Q-sFY/view?usp=sharing)| [Vídeo da Apresentação](https://drive.google.com/file/d/1EcBnnfMKPL_kJA7f2_M0lV2T8F0pFF6N/view?usp=sharing)
 |21 Out 2020| I | Seminários |
 
