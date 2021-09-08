@@ -127,9 +127,9 @@ A média final é uma média ponderada das notas
 |17 Ago 2021| I | Avaliação | - | - |
 |19 e 24 Ago 2021| I | Computação em Nuvem | [Slides](https://docs.google.com/presentation/d/1YfmZx9BHQEPICXu1crt_n2fxe1s19k72T-LXsZNGv8A/edit?usp=sharing) | [Roteiro de Aula](https://docs.google.com/document/d/1pMLajeHFmaZ4P461J-iNVfW7Ozihgv3-gr3vvznvwPY/edit?usp=sharing) |
 |XXXXXX| I | XXXXXXX | [XXXXXXX]() | [XXXXXXXX]() |
-|10 Ago 2020| I | Envio Vídeo da atividade sobre Arquitetura de SDs (AT2) | - | - |
-|09 Set 2020| II | Tira Dúvidas para Avaliação | [Estudo Dirigido](https://docs.google.com/document/d/12Df41DFg8AvknQUdyj8WYF2JWsaC5UUmPqNDoRsGthU/edit?usp=sharing) | - 
-|16 Set 2020| I | Avaliação Oral  | - | - |
-|14 Out 2020| I | Seminários | [Slides de GRPC (Marcus André)](https://drive.google.com/file/d/1sLRNcZI46WO-Pgdr68998YNq7r5Q-sFY/view?usp=sharing)| [Vídeo da Apresentação](https://drive.google.com/file/d/1EcBnnfMKPL_kJA7f2_M0lV2T8F0pFF6N/view?usp=sharing)
-|21 Out 2020| I | Seminários |
+|XX XXX XXXX| I | Envio Vídeo da atividade sobre Arquitetura de SDs (AT2) | - | - |
+|XX XXX XXXX| II | Tira Dúvidas para Avaliação | [Estudo Dirigido](https://docs.google.com/document/d/12Df41DFg8AvknQUdyj8WYF2JWsaC5UUmPqNDoRsGthU/edit?usp=sharing) | - 
+|XX XXX XXXX| I | Avaliação Oral  | - | - |
+|XX XXX XXXX| I | Seminários | [Slides de GRPC (Marcus André)](https://drive.google.com/file/d/1sLRNcZI46WO-Pgdr68998YNq7r5Q-sFY/view?usp=sharing)| [Vídeo da Apresentação](https://drive.google.com/file/d/1EcBnnfMKPL_kJA7f2_M0lV2T8F0pFF6N/view?usp=sharing)
+|XX XXX XXXX| I | Seminários |
 
