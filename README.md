@@ -125,7 +125,7 @@ A média final é uma média ponderada das notas
 |10 Ago 2021| I | Estudo Dirigido | - | - |
 |12 Ago 2021| I | Estudo Dirigido/Tira-Dúvidas | - | - |
 |17 Ago 2021| I | Avaliação | - | - |
-|19 e 24 Ago 2021| I | Computação em Nuvem | [Slides](https://docs.google.com/presentation/d/1YfmZx9BHQEPICXu1crt_n2fxe1s19k72T-LXsZNGv8A/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1MHqgDfl30XHZ0Dm-3oCpx62P0adF3-O_/view?usp=sharing) |
+|19 e 24 Ago 2021| I | Computação em Nuvem | [Slides](https://docs.google.com/presentation/d/1YfmZx9BHQEPICXu1crt_n2fxe1s19k72T-LXsZNGv8A/edit?usp=sharing) | [Roteiro de Aula](https://docs.google.com/document/d/1pMLajeHFmaZ4P461J-iNVfW7Ozihgv3-gr3vvznvwPY/edit?usp=sharing) |
 |XXXXXX| I | XXXXXXX | [XXXXXXX]() | [XXXXXXXX]() |
 |10 Ago 2020| I | Envio Vídeo da atividade sobre Arquitetura de SDs (AT2) | - | - |
 |09 Set 2020| II | Tira Dúvidas para Avaliação | [Estudo Dirigido](https://docs.google.com/document/d/12Df41DFg8AvknQUdyj8WYF2JWsaC5UUmPqNDoRsGthU/edit?usp=sharing) | - 
