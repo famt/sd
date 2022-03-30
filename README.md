@@ -9,8 +9,6 @@
 * **Professor** - Fernando Trinta ([fernando.trinta@dc.ufc.br](mailto:fernando.trinta@dc.ufc.br))
 * **Professor** - Windson Viana ([windson@virtual.ufc.br](mailto:windson@virtual.ufc.br))
 
-* **Assistente de Ensino** - Carlos Eduardo Viana Valente ([eduardo1valente@gmail.com](mailto:eduardo1valente@gmail.com))
-
 ### Local
 
 Aulas remotas assíncronas eventualmente as terças-feiras e quintas-feiras (16:00-18:00) pelo Google Meet.
