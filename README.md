@@ -110,7 +110,7 @@ A média final é uma média ponderada das notas
 |07 Abr 2022| I | Tira dúvidas e Explicação AT1 | [Gabarito AT1](https://docs.google.com/document/d/1rzs-DWUKDwdVPFUjHKCC2Me2jPsVLhuBGbnl1Kaf-Sw/edit) | - |
 |12 Abr 2022| I | Apresentação (Vídeo ou Slides) e Arquitetura (AT2) | - | - |
 |14 Abr 2022| - | FERIADO | - | - |
-|19 Abr 2022| I | Paradigmas de Comunicação - AT3 |  | [Slides PDF](https://docs.google.com/presentation/d/1y06Gi49f24wjCNmi43foCX-pc5hDF2eGo9k2I7kFbRA/edit?usp=sharing), [Roteiro da aula](https://docs.google.com/document/d/1b5w44_XbeXNJPcGILghJYf_SAcr3Ro5tzF90cGlNX6M/edit?ts=60c89350) |
+|19 Abr 2022| I | Paradigmas de Comunicação - AT3 | [Roteiro de Estudo](https://docs.google.com/document/d/1FX1QfASdDkyVP8SYNhHPCvNWQq9n8el0I_gsgXOY6yM/edit) | [Slides PDF](https://docs.google.com/presentation/d/1y06Gi49f24wjCNmi43foCX-pc5hDF2eGo9k2I7kFbRA/edit?usp=sharing), [Roteiro da aula](https://docs.google.com/document/d/1b5w44_XbeXNJPcGILghJYf_SAcr3Ro5tzF90cGlNX6M/edit?ts=60c89350) |
 |21 Abr 2022| - | FERIADO | - | - |
 |26 Abr 2022| II | Paradigmas de Comunicação - Comunicação Indireta | - | [Roteiro da aula](https://docs.google.com/document/d/16TgBxDgTp8KeCTG9htv65HIxo3x5oP07jyj2bh0REq0/edit?usp=sharing) |
 |28 Abr 2022| II | Invocação Remota e Comunicação Indireta | - | [Roteiro da aula](https://docs.google.com/document/d/16dekWzI3OyvoHPDc2DErTEjmGnLj4xOY3lMWgEd3Vvg/edit?usp=sharing) |
