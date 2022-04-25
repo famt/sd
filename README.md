@@ -110,13 +110,12 @@ A média final é uma média ponderada das notas
 |07 Abr 2022| I | Tira dúvidas e Explicação AT1 | [Gabarito AT1](https://docs.google.com/document/d/1rzs-DWUKDwdVPFUjHKCC2Me2jPsVLhuBGbnl1Kaf-Sw/edit) | - |
 |12 Abr 2022| I | Apresentação (Vídeo ou Slides) e Arquitetura (AT2) | - | - |
 |14 Abr 2022| - | FERIADO | - | - |
-|19 Abr 2022| I | Paradigmas de Comunicação - AT3 | [Roteiro de Estudo](https://docs.google.com/document/d/1FX1QfASdDkyVP8SYNhHPCvNWQq9n8el0I_gsgXOY6yM/edit) | [Slides PDF](https://docs.google.com/presentation/d/1y06Gi49f24wjCNmi43foCX-pc5hDF2eGo9k2I7kFbRA/edit?usp=sharing), [Roteiro da aula](https://docs.google.com/document/d/1b5w44_XbeXNJPcGILghJYf_SAcr3Ro5tzF90cGlNX6M/edit?ts=60c89350) |
+|19 Abr 2022| I | Paradigmas de Comunicação - Parte 1 | [Roteiro de Estudo](https://docs.google.com/document/d/1FX1QfASdDkyVP8SYNhHPCvNWQq9n8el0I_gsgXOY6yM/edit) | [Slides PDF](https://docs.google.com/presentation/d/1y06Gi49f24wjCNmi43foCX-pc5hDF2eGo9k2I7kFbRA/edit?usp=sharing), [Roteiro da aula](https://docs.google.com/document/d/1b5w44_XbeXNJPcGILghJYf_SAcr3Ro5tzF90cGlNX6M/edit?ts=60c89350) |
 |21 Abr 2022| - | FERIADO | - | - |
-|26 Abr 2022| II | Paradigmas de Comunicação - Comunicação Indireta | - | [Roteiro da aula](https://docs.google.com/document/d/16TgBxDgTp8KeCTG9htv65HIxo3x5oP07jyj2bh0REq0/edit?usp=sharing) |
-|28 Abr 2022| II | Invocação Remota e Comunicação Indireta | - | [Roteiro da aula](https://docs.google.com/document/d/16dekWzI3OyvoHPDc2DErTEjmGnLj4xOY3lMWgEd3Vvg/edit?usp=sharing) |
-|03 Mai 2022| I | Threads e Processos |  | [Slides PDF](https://docs.google.com/presentation/d/17-1RGQQZcE5pH2kUQZFhrMtGE_mf5kHyLvj08BNKa9g/edit?usp=sharing), [Exemplos IPC](https://github.com/famt/sd/blob/2020.1/exemplos_code/ExemplosThreads.zip), [Roteiro da aula](https://docs.google.com/document/d/1VBVw8G0wNK6Nre5Fcly5XdPS2FV6bjspK9JydyrW8E0/edit?usp=sharing) |
-|05 Mai 2022| I | Algoritmos Distribuídos - Relógios Lógicos e Exclusão Mútua. |   | [Slides](https://docs.google.com/presentation/d/1bl51LAz48ZJC31Ynm7Kj2mtkqEWtbpKiIgjkYWcixXk/edit?usp=sharing), [Roteiro da aula](https://docs.google.com/document/d/1z582doTfWXif-FZ66fF1D0nLADWX0LO6AU0uQ8LO_bM/edit?usp=sharing) |
-|10 Mai 2022| II | Algoritmos Distribuídos - Relógios Lógicos e Exclusão Mútua. | - | - |
+|26 Abr 2022| II | Paradigmas de Comunicação -  Parte 2 | - | [Roteiro da aula](https://docs.google.com/document/d/16TgBxDgTp8KeCTG9htv65HIxo3x5oP07jyj2bh0REq0/edit?usp=sharing) |
+|28 Abr 2022| I | Algoritmos Distribuídos - Relógios Lógicos e Exclusão Mútua. |   | [Slides](https://docs.google.com/presentation/d/1bl51LAz48ZJC31Ynm7Kj2mtkqEWtbpKiIgjkYWcixXk/edit?usp=sharing), [Roteiro da aula](https://docs.google.com/document/d/1z582doTfWXif-FZ66fF1D0nLADWX0LO6AU0uQ8LO_bM/edit?usp=sharing) |
+|03 Mai 2022| II | Algoritmos Distribuídos - Relógios Lógicos e Exclusão Mútua. | - | - |
+|10 Mai 2022| II | Invocação Remota e Comunicação Indireta | - | [Roteiro da aula](https://docs.google.com/document/d/16dekWzI3OyvoHPDc2DErTEjmGnLj4xOY3lMWgEd3Vvg/edit?usp=sharing) |
 |12 Mai 2022| I | Estudo sobre Interoperabilidade (Modelos de Representação de Dados) |   | [Slides](https://docs.google.com/presentation/d/1kOuOLCtfoxjaXI4qnkBc68En07XrmDi6Zbrymnhq-QI/edit?usp=sharing), [Roteiro Aula](https://docs.google.com/document/d/1M4q1QjFJC152jYjBggKwA79thQ-U0UIw-CXjOlDlXmQ/edit?usp=sharing) |
 |17 Mai 2022| II | Estudo sobre Interoperabilidade | - | - |
 |19 Mai 2022| III | Interoperabilidade. Aula PBL. AT4 | - | - |
