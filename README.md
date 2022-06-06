@@ -119,13 +119,13 @@ A média final é uma média ponderada das notas
 |12 Mai 2022| I | Estudo sobre Interoperabilidade (Modelos de Representação de Dados) | [Roteiro da aula](https://docs.google.com/document/d/1yE3wLQ7AsLhhvUTvIO-IRyayjCbIAQl7jHV9XyCzlKg/edit?usp=sharing) | [Slides](https://docs.google.com/presentation/d/1kOuOLCtfoxjaXI4qnkBc68En07XrmDi6Zbrymnhq-QI/edit?usp=sharing), [Roteiro Aula](https://docs.google.com/document/d/1M4q1QjFJC152jYjBggKwA79thQ-U0UIw-CXjOlDlXmQ/edit?usp=sharing) |
 |17 Mai 2022| II | Estudo sobre Interoperabilidade | [Roteiro da aula](https://docs.google.com/document/d/1yE3wLQ7AsLhhvUTvIO-IRyayjCbIAQl7jHV9XyCzlKg/edit?usp=sharing)| - |
 |19 Mai 2022| III | Interoperabilidade. Aula PBL. AT4 | - | - |
-|24 Mai 2022| I e II | SOA e Microserviços |   | [Slides](https://github.com/famt/sd/blob/2020.1/slides/soa.pdf), [Roteiro Aula](https://docs.google.com/document/d/1Ugt9m5-nTuUd7ol5JkGLSbLCfOb5-SnmwVfYBFTUvv0/edit?usp=sharing) |
-|26 Mai 2022| I | Palestra de Convidado (Pix) | - | - |
-|31 Mai 2022| I | Palestra de Convidado (Mensageria) | - | - |
-|02 Jun 2022| I | Algoritmos Distribuídos - Algoritmos de Eleição |  | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing), [Roteiro da aula](https://docs.google.com/document/d/1vEI9abYg7PILytS4M9OoanM_voHUnOkgw6yE2Ohq1nU/edit?usp=sharing) |
-|07 Jun 2022| II | Algoritmos Distribuídos - Algoritmos de Eleição | - | - |
+|24 Mai 2022| I e II | Consolidar Trabalhos | - | - |
+|26 Mai 2022| I | SOA e Microserviços | [Roteiro](https://docs.google.com/document/d/1Ugt9m5-nTuUd7ol5JkGLSbLCfOb5-SnmwVfYBFTUvv0/edit?usp=sharing) | [Slides](https://github.com/famt/sd/blob/2020.1/slides/soa.pdf), [Roteiro Aula](https://docs.google.com/document/d/1Ugt9m5-nTuUd7ol5JkGLSbLCfOb5-SnmwVfYBFTUvv0/edit?usp=sharing) |
+|31 Mai 2022| I | Palestra de Convidado (Jogos Distribuídos) | - | - |
+|02 Jun 2022| I | Algoritmos Distribuídos - Algoritmos de Eleição | [Roteiro de Estudo](https://docs.google.com/document/d/1vEI9abYg7PILytS4M9OoanM_voHUnOkgw6yE2Ohq1nU/edit) | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing), [Roteiro da aula](https://docs.google.com/document/d/1vEI9abYg7PILytS4M9OoanM_voHUnOkgw6yE2Ohq1nU/edit?usp=sharing) |
+|07 Jun 2022| II | Algoritmos Distribuídos - Algoritmos de Eleição | [Roteiro de Estudo](https://docs.google.com/document/d/1vEI9abYg7PILytS4M9OoanM_voHUnOkgw6yE2Ohq1nU/edit) | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing), [Roteiro da aula](https://docs.google.com/document/d/1vEI9abYg7PILytS4M9OoanM_voHUnOkgw6yE2Ohq1nU/edit?usp=sharing) |
 |09 Jun 2022| I | Descoberta de Serviços | - | - |
-|14 Jun 2022| I | Estudo Dirigido | - | - |
+|14 Jun 2022| I | Palestra de Convidado | - | - |
 |16 Jun 2022| I | Estudo Dirigido | - | - |
 |21 Jun 2022| I | Avaliação | - | - |
 |23 Jun 2022| I | Computação em Nuvem |  | [Slides](https://docs.google.com/presentation/d/1YfmZx9BHQEPICXu1crt_n2fxe1s19k72T-LXsZNGv8A/edit?usp=sharing), [Roteiro de Aula](https://docs.google.com/document/d/1pMLajeHFmaZ4P461J-iNVfW7Ozihgv3-gr3vvznvwPY/edit?usp=sharing) |
