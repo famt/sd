@@ -4,7 +4,7 @@
 
 ## Ciência da Computação, [Departamento de Computação](http://www.dc.ufc.br), Instituto UFC Virtual ([UFC](http://www.ufc.br))
 
-### Instrutores
+### Professores
 
 * **Professor** - Fernando Trinta ([fernando.trinta@dc.ufc.br](mailto:fernando.trinta@dc.ufc.br))
 * **Professor** - Windson Viana ([windson@virtual.ufc.br](mailto:windson@virtual.ufc.br))
