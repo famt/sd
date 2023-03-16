@@ -89,12 +89,12 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 
 
 ### Avaliação
- 1 avaliação individual adaptativa (AP1);
+ 1 avaliação individual adaptativa (AIA);
  6 atividades práticas (AT1-AT6);
- 1 Seminário final (Sem1);
+ 1 Seminário final (SEM);
 
 A média final é uma média ponderada das notas
-**NF = [(0.2*AP1 + 0.2*Sem1 + (PT1 + ... + PT6)]**
+**NF = [(0.2*AIA + 0.2*SEM + 0.1*(PT1 + ... + PT6)]**
 
 
 ### Plano de aulas
@@ -103,36 +103,35 @@ A média final é uma média ponderada das notas
 |:-------------:|:----:|-----------------------------|:---------:|:-----------:|
 |14 Mar 2023| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | [Slides Apresentação](https://docs.google.com/presentation/d/1TDpoG2tagK5W-MLwkZHbCwsTcrlQZ6p-AKuRVS6Tf40/edit?usp=sharing) | [Slides Apresentação](https://docs.google.com/presentation/d/1SGAkG5VkT3mJu5b4g4_Gu9Q1DWQ5CG5f09jsGOlWlyY/edit?usp=sharing), [Vídeo - Aula](https://drive.google.com/file/d/16d2LOJDifBN9O-PK-dPF_VGZqVuMbtvc/view?usp=sharing) |
 |16 Mar 2023| I | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Fundamentos SD](https://docs.google.com/presentation/d/1GOIAw0MgvHV-y9S9eOa2viWKUoskH45IFg9GDsWil9w/edit?usp=sharing) | [Slides Fundamentos SD](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing), [Vídeo - Aula](https://drive.google.com/file/d/1LOSWsIcbBUeR1UGSw5BdDnKdK_x2jiXi/view?usp=sharing) |
-|24 Mar 2022| II | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | - | [Slides Fundamentos SD](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing), [Vídeo - Aula](https://drive.google.com/file/d/1hL3yivKN03DbdkL3SfYJvEcUEsEj2rO7/view?usp=sharing)|
-|29 Mar 2022| I | Atividade Prática de Revisão de Redes - Wireshark (AT1)| [Roteiro de Estudo](https://docs.google.com/document/d/1x1pQkacABFVx5cVMz03ssR1QDWyWH_fcdYBq8fhGCAQ/edit?usp=sharing) | [Roteiro de Estudo](https://docs.google.com/document/d/1x1pQkacABFVx5cVMz03ssR1QDWyWH_fcdYBq8fhGCAQ/edit?usp=sharing), [Atividade](https://docs.google.com/document/d/17o74YyhMWitWC0CQpGtu3vQpvzOqoKqpISZHP1x6i38/edit?usp=sharing) |
-|31 Mar 2022| I | Modelos de Comunicação e Arquitetura | [Roteiro de Estudo](https://docs.google.com/document/d/1ZQgeZsJItiysiQeJI7WFctV6DT0Q6Ib_LCaaVLndEgw/edit?usp=sharing) | [Slides](https://docs.google.com/presentation/d/11b_woecjabbineXLuXrQncKQhJ6j0PzDTvaEvtypJq0/edit?usp=sharing), [Texto Interessante](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013), [Video-Aula_Parte 1 ](https://www.youtube.com/watch?v=ohXmcFZchCs), [Video-Aula_Parte 2 ](https://www.youtube.com/watch?v=XhvTjuArDDE)|
-|05 Abr 2022| I | Estudo sobre o seu SD (AT2) | [Roteiro de Estudo](https://docs.google.com/document/d/1Pf4gBAxFtl5k8wBhz4xz-EO68avxgSP0ViqGDA5tUIs/edit?usp=sharing) | [Descrição da Tarefa](https://docs.google.com/document/d/1Pf4gBAxFtl5k8wBhz4xz-EO68avxgSP0ViqGDA5tUIs/edit?usp=sharing), [Escolha o Tema](https://docs.google.com/document/d/1plJ8TkYylTDTQxpm78byH8V7f4yMQboad1HBPAxzNE0/edit?usp=sharing) |
-|07 Abr 2022| I | Tira dúvidas e Explicação AT1 | [Gabarito AT1](https://docs.google.com/document/d/1rzs-DWUKDwdVPFUjHKCC2Me2jPsVLhuBGbnl1Kaf-Sw/edit) | - |
-|12 Abr 2022| I | Apresentação (Vídeo ou Slides) e Arquitetura (AT2) | - | - |
-|14 Abr 2022| - | FERIADO | - | - |
-|19 Abr 2022| I | Paradigmas de Comunicação - Parte 1 | [Roteiro de Estudo](https://docs.google.com/document/d/1FX1QfASdDkyVP8SYNhHPCvNWQq9n8el0I_gsgXOY6yM/edit) | [Slides PDF](https://docs.google.com/presentation/d/1y06Gi49f24wjCNmi43foCX-pc5hDF2eGo9k2I7kFbRA/edit?usp=sharing), [Roteiro da aula](https://docs.google.com/document/d/1b5w44_XbeXNJPcGILghJYf_SAcr3Ro5tzF90cGlNX6M/edit?ts=60c89350) |
-|21 Abr 2022| - | FERIADO | - | - |
-|26 Abr 2022| II | Paradigmas de Comunicação -  Parte 2 | [Roteiro de Estudo](https://docs.google.com/document/d/1k5KIAQhLcIENmeCoqtuk7No87jRb3WatCIR9FV_zeAE/edit) | [Roteiro da aula](https://docs.google.com/document/d/16TgBxDgTp8KeCTG9htv65HIxo3x5oP07jyj2bh0REq0/edit?usp=sharing) |
-|28 Abr 2022| I | Algoritmos Distribuídos - Relógios Lógicos e Exclusão Mútua. | [Roteiro de Estudo](https://docs.google.com/document/d/1z582doTfWXif-FZ66fF1D0nLADWX0LO6AU0uQ8LO_bM/edit?usp=sharing)   | [Slides](https://docs.google.com/presentation/d/1bl51LAz48ZJC31Ynm7Kj2mtkqEWtbpKiIgjkYWcixXk/edit?usp=sharing), [Roteiro da aula](https://docs.google.com/document/d/1z582doTfWXif-FZ66fF1D0nLADWX0LO6AU0uQ8LO_bM/edit?usp=sharing) |
-|03 Mai 2022| II | Algoritmos Distribuídos - Relógios Lógicos e Exclusão Mútua. | - | - |
-|10 Mai 2022| II | Invocação Remota e Comunicação Indireta | [Roteiro da aula](https://docs.google.com/document/d/16dekWzI3OyvoHPDc2DErTEjmGnLj4xOY3lMWgEd3Vvg/edit#heading=h.xr1uctwau2qt) | [Roteiro da aula](https://docs.google.com/document/d/16dekWzI3OyvoHPDc2DErTEjmGnLj4xOY3lMWgEd3Vvg/edit?usp=sharing) |
-|12 Mai 2022| I | Estudo sobre Interoperabilidade (Modelos de Representação de Dados) | [Roteiro da aula](https://docs.google.com/document/d/1yE3wLQ7AsLhhvUTvIO-IRyayjCbIAQl7jHV9XyCzlKg/edit?usp=sharing) | [Slides](https://docs.google.com/presentation/d/1kOuOLCtfoxjaXI4qnkBc68En07XrmDi6Zbrymnhq-QI/edit?usp=sharing), [Roteiro Aula](https://docs.google.com/document/d/1M4q1QjFJC152jYjBggKwA79thQ-U0UIw-CXjOlDlXmQ/edit?usp=sharing) |
-|17 Mai 2022| II | Estudo sobre Interoperabilidade | [Roteiro da aula](https://docs.google.com/document/d/1yE3wLQ7AsLhhvUTvIO-IRyayjCbIAQl7jHV9XyCzlKg/edit?usp=sharing)| - |
-|19 Mai 2022| III | Interoperabilidade. Aula PBL. AT4 | - | - |
-|24 Mai 2022| I e II | Consolidar Trabalhos | - | - |
-|26 Mai 2022| I | SOA e Microserviços | [Roteiro](https://docs.google.com/document/d/1Ugt9m5-nTuUd7ol5JkGLSbLCfOb5-SnmwVfYBFTUvv0/edit?usp=sharing) | [Slides](https://github.com/famt/sd/blob/2020.1/slides/soa.pdf), [Roteiro Aula](https://docs.google.com/document/d/1Ugt9m5-nTuUd7ol5JkGLSbLCfOb5-SnmwVfYBFTUvv0/edit?usp=sharing) |
-|31 Mai 2022| I | Palestra de Convidado (Jogos Distribuídos) | - | - |
-|02 Jun 2022| I | Algoritmos Distribuídos - Algoritmos de Eleição | [Roteiro de Estudo](https://docs.google.com/document/d/1vEI9abYg7PILytS4M9OoanM_voHUnOkgw6yE2Ohq1nU/edit) | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing), [Roteiro da aula](https://docs.google.com/document/d/1vEI9abYg7PILytS4M9OoanM_voHUnOkgw6yE2Ohq1nU/edit?usp=sharing) |
-|07 Jun 2022| II | Algoritmos Distribuídos - Algoritmos de Eleição | [Roteiro de Estudo](https://docs.google.com/document/d/1vEI9abYg7PILytS4M9OoanM_voHUnOkgw6yE2Ohq1nU/edit) | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing), [Roteiro da aula](https://docs.google.com/document/d/1vEI9abYg7PILytS4M9OoanM_voHUnOkgw6yE2Ohq1nU/edit?usp=sharing) |
-|09 Jun 2022| I | Descoberta de Serviços | - | - |
-|14 Jun 2022| I | Palestra de Convidado | - | - |
-|16 Jun 2022| I | Estudo Dirigido | - | - |
-|21 Jun 2022| I | Avaliação | - | - |
-|23 Jun 2022| I | Computação em Nuvem |  | [Slides](https://docs.google.com/presentation/d/1YfmZx9BHQEPICXu1crt_n2fxe1s19k72T-LXsZNGv8A/edit?usp=sharing), [Roteiro de Aula](https://docs.google.com/document/d/1pMLajeHFmaZ4P461J-iNVfW7Ozihgv3-gr3vvznvwPY/edit?usp=sharing) |
-|28 Jun 2022| II | Computação em Nuvem | - | - |
-|30 Jun 2022| I | Seminários | - | - |
-|05 Jul 2022| II | Seminários | - | - |
-|07 Jul 2022| I | A definir | - | - |
-|12 Jul 2022| I | A definir | - | - |
-|14 Jul 2022| I | Avaliações Finais | - | - |
-
+|21 Mar 2023| II | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | - | [Slides Fundamentos SD](https://docs.google.com/presentation/d/1nM5xKqJM-P4yHbZvgCg9PTtJuCdSStTGYPH8gwiHpqo/edit?usp=sharing), [Vídeo - Aula](https://drive.google.com/file/d/1hL3yivKN03DbdkL3SfYJvEcUEsEj2rO7/view?usp=sharing)|
+|23 Mar 2023| I | Atividade Prática de Revisão de Redes - Wireshark (AT1)| - | [Roteiro de Estudo](https://docs.google.com/document/d/1x1pQkacABFVx5cVMz03ssR1QDWyWH_fcdYBq8fhGCAQ/edit?usp=sharing), [Atividade](https://docs.google.com/document/d/17o74YyhMWitWC0CQpGtu3vQpvzOqoKqpISZHP1x6i38/edit?usp=sharing) |
+|28 Mar 2023| I | Modelos de Comunicação e Arquitetura | - | [Slides](https://docs.google.com/presentation/d/11b_woecjabbineXLuXrQncKQhJ6j0PzDTvaEvtypJq0/edit?usp=sharing), [Texto Interessante](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013), [Video-Aula_Parte 1](https://www.youtube.com/watch?v=ohXmcFZchCs), [Video-Aula_Parte 2](https://www.youtube.com/watch?v=XhvTjuArDDE)|
+|30 Mar 2023| II | Modelos de Comunicação e Arquitetura (Tira dúvidas da AT1) | - | - |
+|04 Abr 2023| I | Estudo sobre o seu SD (AT2) | - | [Descrição da Tarefa](https://docs.google.com/document/d/1Pf4gBAxFtl5k8wBhz4xz-EO68avxgSP0ViqGDA5tUIs/edit?usp=sharing), [Escolha o Tema](https://docs.google.com/document/d/1plJ8TkYylTDTQxpm78byH8V7f4yMQboad1HBPAxzNE0/edit?usp=sharing) |
+|06 Abr 2023| - | FERIADO | - | - |
+|11 Abr 2023| I | Apresentação (Vídeo ou Slides) - Arquitetura (AT2) | - | - |
+|13 Abr 2023| I | Paradigmas de Comunicação - Overview | - | [Slides PDF](https://docs.google.com/presentation/d/1y06Gi49f24wjCNmi43foCX-pc5hDF2eGo9k2I7kFbRA/edit?usp=sharing), [Roteiro da aula](https://docs.google.com/document/d/1b5w44_XbeXNJPcGILghJYf_SAcr3Ro5tzF90cGlNX6M/edit?ts=60c89350) |
+|18 Abr 2023| II | Paradigmas de Comunicação -  Parte 1 & 2 | - | [Roteiro da aula](https://docs.google.com/document/d/16TgBxDgTp8KeCTG9htv65HIxo3x5oP07jyj2bh0REq0/edit?usp=sharing) |
+|20 Abr 2023| I | Algoritmos Distribuídos - Relógios Lógicos e Exclusão Mútua. | [Roteiro de Estudo](https://docs.google.com/document/d/1z582doTfWXif-FZ66fF1D0nLADWX0LO6AU0uQ8LO_bM/edit?usp=sharing)   | [Slides](https://docs.google.com/presentation/d/1bl51LAz48ZJC31Ynm7Kj2mtkqEWtbpKiIgjkYWcixXk/edit?usp=sharing), [Roteiro da aula](https://docs.google.com/document/d/1z582doTfWXif-FZ66fF1D0nLADWX0LO6AU0uQ8LO_bM/edit?usp=sharing) |
+|25 Abr 2023| II | Algoritmos Distribuídos - Relógios Lógicos e Exclusão Mútua. | - | - |
+|27 Abr 2023| I | Invocação Remota e Comunicação Indireta - Overview | - | - |
+|02 Mai 2023| II | Invocação Remota e Comunicação Indireta (AT03) | - | [Roteiro da aula](https://docs.google.com/document/d/16dekWzI3OyvoHPDc2DErTEjmGnLj4xOY3lMWgEd3Vvg/edit?usp=sharing) |
+|04 Mai 2023| III | Invocação Remota e Comunicação Indireta (AT03) | - | [Roteiro da aula](https://docs.google.com/document/d/16dekWzI3OyvoHPDc2DErTEjmGnLj4xOY3lMWgEd3Vvg/edit?usp=sharing) |
+|09 Mai 2023| I | Estudo sobre Interoperabilidade (Modelos de Representação de Dados) | - | [Slides](https://docs.google.com/presentation/d/1kOuOLCtfoxjaXI4qnkBc68En07XrmDi6Zbrymnhq-QI/edit?usp=sharing), [Roteiro Aula](https://docs.google.com/document/d/1M4q1QjFJC152jYjBggKwA79thQ-U0UIw-CXjOlDlXmQ/edit?usp=sharing) |
+|11 Mai 2023| II | Interoperabilidade. Aula PBL. | - | - |
+|16 Mai 2023| I | SOA e Microserviços - Overview | - | [Slides](https://github.com/famt/sd/blob/2020.1/slides/soa.pdf), [Roteiro Aula](https://docs.google.com/document/d/1Ugt9m5-nTuUd7ol5JkGLSbLCfOb5-SnmwVfYBFTUvv0/edit?usp=sharing) |
+|18 Mai 2023| II | SOA e Microserviços | - | - |
+|23 Mai 2023| I | Carlos Henrique - Serpro (Gov.BR) | - | - |
+|25 Mai 2023| I | Algoritmos Distribuídos - Algoritmos de Eleição - Overview (AT05) | - | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing), [Roteiro da aula](https://docs.google.com/document/d/1vEI9abYg7PILytS4M9OoanM_voHUnOkgw6yE2Ohq1nU/edit?usp=sharing) |
+|30 Mai 2023| II | Algoritmos Distribuídos - Algoritmos de Eleição | - | [Slides](https://docs.google.com/presentation/d/19m_Xf451JBIYeIH68XLZNgIbm6RopaI7tDvw6r3Jmw0/edit?usp=sharing), [Roteiro da aula](https://docs.google.com/document/d/1vEI9abYg7PILytS4M9OoanM_voHUnOkgw6yE2Ohq1nU/edit?usp=sharing) |
+|01 Jun 2023| I | Computação em Nuvem - Tira dúvidas da avaliação |  | [Slides](https://docs.google.com/presentation/d/1YfmZx9BHQEPICXu1crt_n2fxe1s19k72T-LXsZNGv8A/edit?usp=sharing), [Roteiro de Aula](https://docs.google.com/document/d/1pMLajeHFmaZ4P461J-iNVfW7Ozihgv3-gr3vvznvwPY/edit?usp=sharing) |
+|06 Jun 2023| II | Computação em Nuvem | - | - |
+|08 Jun 2023| - | FERIADO | - | - |
+|13 Jun 2023| I | Avaliação | - | - |
+|15 Jun 2023| I | Mensageria | - | - |
+|20 Jun 2023| I | Apresentação - SDs - ATO6 (em grupo) | - | - |
+|22 Jun 2023| I | Preparação para os seminários | - | - |
+|27 Jun 2023| I | Seminários Individuais | - | - |
+|29 Jun 2023| II | Seminários Individuais | - | - |
+|04 Jul 2023| I | BACKUP | - | - |
+|06 Jul 2023| I | Provas Finais | - | - |
