@@ -94,7 +94,7 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
  1 Seminário final (SEM);
 
 A média final é uma média ponderada das notas
-**NF = [(0.2*AIA + 0.2*SEM + 0.1*(PT1 + ... + PT6)]**
+**NF = [(0.2*AIA + 0.2*SEM + 0.1*(AT1 + ... + AT6)]**
 
 
 ### Plano de aulas
