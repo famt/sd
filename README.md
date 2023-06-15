@@ -128,8 +128,8 @@ A média final é uma média ponderada das notas
 |06 Jun 2023| II | Computação em Nuvem | - | - |
 |08 Jun 2023| - | FERIADO | - | - |
 |13 Jun 2023| I | Avaliação | - | - |
-|15 Jun 2023| I | Mensageria | - | - |
-|20 Jun 2023| I | Apresentação - SDs - ATO6 (em grupo) | - | - |
+|15 Jun 2023| I | - | [Roteiro para Seminários](https://docs.google.com/document/d/1Lj-WJuhZu4maxRdxjQyb1NkCj3rhKslcSDSrpYTN96w/edit?usp=sharing)  | - |
+|20 Jun 2023| I | Entrega e Correção da Prova | - | - |
 |22 Jun 2023| I | Preparação para os seminários | - | - |
 |27 Jun 2023| I | Seminários Individuais | - | - |
 |29 Jun 2023| II | Seminários Individuais | - | - |
